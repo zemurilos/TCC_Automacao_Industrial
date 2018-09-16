@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  23 AUG 2018 06:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  16 SEP 2018 13:05
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -1309,7 +1309,7 @@ LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks48
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 230.
+Package hyperref Info: Option `colorlinks' set `true' on input line 231.
 \c@quadro=\count313
 \c@loqdepth=\count314
 \cftbeforequadroskip=\skip288
@@ -1323,28 +1323,28 @@ Writing index file Template_-_Monografia_-_IFSP_-_SBV.idx
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
 \openout1 = `Template_-_Monografia_-_IFSP_-_SBV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 290.
-LaTeX Font Info:    ... okay on input line 290.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 290.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 291.
+LaTeX Font Info:    ... okay on input line 291.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 291.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package hyperref Info: Link coloring ON on input line 290.
+Package hyperref Info: Link coloring ON on input line 291.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1356,18 +1356,18 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 290.
-LaTeX Info: Redefining \ref on input line 290.
-LaTeX Info: Redefining \pageref on input line 290.
-LaTeX Info: Redefining \nameref on input line 290.
-LaTeX Info: Redefining \degres on input line 290.
-LaTeX Info: Redefining \dots on input line 290.
-LaTeX Info: Redefining \up on input line 290.
+LaTeX Info: Redefining \nameref on input line 291.
+LaTeX Info: Redefining \ref on input line 291.
+LaTeX Info: Redefining \pageref on input line 291.
+LaTeX Info: Redefining \nameref on input line 291.
+LaTeX Info: Redefining \degres on input line 291.
+LaTeX Info: Redefining \dots on input line 291.
+LaTeX Info: Redefining \up on input line 291.
 \myptabbox=\box52
 \myptabboxwidth=\skip291
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 290.
+(lastpage)             ! on input line 291.
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count316
@@ -1394,7 +1394,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 290.
+LaTeX Info: Redefining \microtypecontext on input line 291.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1625,36 +1625,44 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Template_-_Monografia_-_IFSP_-_SBV.toc) [27] [28
 
 ] (capitulo01Introducao.tex
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 24.
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [29
+
+]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 26.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 24.
- [29
-
-])
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
+)
 (capitulo02RevisaoLiteratura.tex [30]
-<imagens/exemploFigura.jpg, id=212, 170.61743pt x 84.7968pt>
-File: imagens/exemploFigura.jpg Graphic file (type jpg)
-<use imagens/exemploFigura.jpg>
-Package pdftex.def Info: imagens/exemploFigura.jpg  used on input line 17.
-(pdftex.def)             Requested size: 255.9255pt x 127.19485pt.
-<imagens/exemploQuadro.png, id=215, 465.74pt x 243.91125pt>
-File: imagens/exemploQuadro.png Graphic file (type png)
-<use imagens/exemploQuadro.png>
-Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 51.
-(pdftex.def)             Requested size: 326.01578pt x 170.7367pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [31
 
- <./imagens/exemploFigura.jpg>]
+]
+<imagens/IxV_schill.jpg, id=232, 205.82497pt x 164.48653pt>
+File: imagens/IxV_schill.jpg Graphic file (type jpg)
+<use imagens/IxV_schill.jpg>
+Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 24.
+(pdftex.def)             Requested size: 308.73666pt x 246.72917pt.
+
+[32]
+<imagens/exemploQuadro.png, id=245, 465.74pt x 243.91125pt>
+File: imagens/exemploQuadro.png Graphic file (type png)
+<use imagens/exemploQuadro.png>
+Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 62.
+(pdftex.def)             Requested size: 326.01578pt x 170.7367pt.
+ [33 <./imagens/IxV_schill.jpg>]
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 68.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 68.
+nput line 79.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 79.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1664,11 +1672,44 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(fontes/ClasseExemplo.java) [32 <./imagens/exemploQuadro.png>] [33])
-(capitulo03Metodologia.tex [34] [35] [36
+(fontes/ClasseExemplo.java) [34 <./imagens/exemploQuadro.png>] [35]
 
-]) (capitulo04ResultadosDiscussao.tex
-[37] [38
+LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Abedi2014' on page 36 undefined on input line 142.
+
+
+LaTeX Warning: Citation `BtNomenclature2016' on page 36 undefined on input line
+ 143.
+
+
+LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 147.
+
+
+LaTeX Warning: Citation `Abedi2014' on page 36 undefined on input line 147.
+
+
+LaTeX Warning: Citation `Nelson2014' on page 36 undefined on input line 148.
+
+
+LaTeX Warning: Citation `BtNomenclature2016' on page 36 undefined on input line
+ 148.
+
+
+LaTeX Warning: Citation `AgapitoTenfen2014' on page 36 undefined on input line 
+148.
+
+
+LaTeX Warning: Citation `Nelson2014' on page 36 undefined on input line 162.
+
+
+LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 168.
+
+) (capitulo03Metodologia.tex [36]) (capitulo04ResultadosDiscussao.tex [37
+
+]
+[38
 
 ]) (capitulo05Conclusoes.tex [39] [40
 
@@ -1739,55 +1780,58 @@ Package catoptions Warning: Undefined options
 \tf@toc=\write11
 \openout11 = `Template_-_Monografia_-_IFSP_-_SBV.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 459.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 459.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 460.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 460.
 (Template_-_Monografia_-_IFSP_-_SBV.xwm)
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 459.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 459.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 460.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 460.
 Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: AF63C32599DF12A297CD413473CC40C6;822.
+(rerunfilecheck)             Checksum: 03FC183371241390848734FBD419500D;1184.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 459.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 460.
  ) 
 Here is how much of TeX's memory you used:
- 33470 strings out of 492973
- 583218 string characters out of 3135921
- 909463 words of memory out of 3000000
- 36452 multiletter control sequences out of 15000+200000
- 122727 words of font info for 152 fonts, out of 3000000 for 9000
+ 33514 strings out of 492973
+ 584853 string characters out of 3135921
+ 909757 words of memory out of 3000000
+ 36471 multiletter control sequences out of 15000+200000
+ 126972 words of font info for 166 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,13n,67p,973b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,13n,67p,1475b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/d
 vips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex
 .enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program 
 Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts
 /type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
-/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmt
-t12.pfb>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (57 pages, 1712492 byt
-es).
+lic/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr7.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
+/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmt
+t10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (57 pages, 711793 byte
+s).
 PDF statistics:
- 606 PDF objects out of 1000 (max. 8388607)
- 134 named destinations out of 1000 (max. 500000)
- 42759 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
+ 43271 words of extra memory for PDF output out of 51595 (max. 10000000)
 

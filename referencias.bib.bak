@@ -22,17 +22,4 @@
   pages        = {1--6},
 }
 
-@Article{WILLOUGHBY2018171,
-  author   = {Alexander A. Willoughby and Muritala O. Osinowo},
-  title    = {Development of an electronic load I-V curve tracer to investigate the impact of Harmattan aerosol loading on PV module pern2tkformance in southwest Nigeria},
-  journal  = {Solar Energy},
-  year     = {2018},
-  volume   = {166},
-  pages    = {171 - 180},
-  issn     = {0038-092X},
-  doi      = {https://doi.org/10.1016/j.solener.2018.03.047},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0038092X18302792},
-  keywords = {Photovoltaic module, I-V/P-V characteristics, MOSFET electronic load, I-V curve tracer, Arduino, Aerosol, PV soiling},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}

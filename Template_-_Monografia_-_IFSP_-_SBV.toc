@@ -11,10 +11,10 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{29}{chapter.1}
 \contentsline {section}{\numberline {1.1}Justificativa}{29}{section.1.1}
-\contentsline {section}{\numberline {1.2}Objetivos}{29}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Objetivo Geral}{29}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.2}Objetivos}{30}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Objetivo Geral}{30}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Objetivos Espec\IeC {\'\i }ficos}{30}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Organiza\IeC {\c c}\IeC {\~a}o Deste Trabalho}{30}{section.1.3}
+\contentsline {section}{\numberline {1.3}Metodologia}{30}{section.1.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Revis\IeC {\~a}o da Literatura}}{31}{chapter.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
