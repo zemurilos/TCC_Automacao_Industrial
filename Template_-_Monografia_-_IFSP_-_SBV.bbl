@@ -11,6 +11,21 @@
   maximum power point tracking. In:  IEEE. \emph{Power Electronics Conference
   (SPEC), IEEE Annual Southern}. [S.l.], 2016. p.~1--6.}
 
+\bibitem[Bressan et al. 2016]{BRESSAN20161181}
+\abntrefinfo{Bressan et al.}{BRESSAN et al.}{2016}
+{BRESSAN, M. et al. A shadow fault detection method based on the standard error
+  analysis of i-v curves.
+\emph{Renewable Energy}, v.~99, p. 1181 -- 1190, 2016.
+ISSN 0960-1481.
+Dispon{\'\i}vel em:
+  \url{http://www.sciencedirect.com/science/article/pii/S0960148116307297}.}
+
+\bibitem[Martin, Vladislav e Pavel 2017]{martin2017temperature}
+\abntrefinfo{Martin, Vladislav e Pavel}{MARTIN; VLADISLAV; PAVEL}{2017}
+{MARTIN, L.; VLADISLAV, P.; PAVEL, K. Temperature changes of iv characteristics
+  of photovoltaic cells as a consequence of the fermi energy level shift.
+\emph{Research in Agricultural Engineering}, v.~63, n.~1, p. 10--15, 2017.}
+
 \bibitem[Schill, Brachmann e Koehl 2015]{SCHILL2015259}
 \abntrefinfo{Schill, Brachmann e Koehl}{SCHILL; BRACHMANN; KOEHL}{2015}
 {SCHILL, C.; BRACHMANN, S.; KOEHL, M. Impact of soiling on iv-curves and

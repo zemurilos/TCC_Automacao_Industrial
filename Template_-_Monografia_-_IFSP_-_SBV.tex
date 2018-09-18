@@ -12,9 +12,9 @@
 	% -- opções da classe memoir --
 	12pt,				% tamanho da fonte
 	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
-	twoside,			% para impressão em verso e anverso. Oposto a oneside
+	oneside,			% para impressão em verso e anverso. Oposto a oneside
 	a4paper,			% tamanho do papel. 
-	%normalfigtabnum,
+	normalfigtabnum,
 	%pnumromarab,
 	% -- opções da classe abntex2 --
 	chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
@@ -402,6 +402,9 @@
 %                                  ELEMENTOS TEXTUAIS
 % ---------------------------------------------------------------------------------
 \textual
+
+\pagestyle{simple}
+\aliaspagestyle{chapter}{simple}
 
 \input{capitulo01Introducao}
 \input{capitulo02RevisaoLiteratura}
