@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  16 SEP 2018 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  18 SEP 2018 17:53
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -566,11 +566,11 @@ Headheight and headsep: 14.5pt and 19.8738pt
 Footskip: 30pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 7pt and 42.9055pt
-Sidecapsep and sidecapwidth: 7pt and 92pt
-Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidecapsep and sidecapwidth: 7pt and 42pt
+Sidebarhsep and sidebarwidth: 7pt and 42pt
 Sidebarvsep and sidebartopsep: 14.5pt and 0pt
 Sidebarheight: 590.14995pt
-Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefoothsep and sidefootwidth: 7pt and 42pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
@@ -1320,7 +1320,15 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 231.
 
 
 Writing index file Template_-_Monografia_-_IFSP_-_SBV.idx 
-(Template_-_Monografia_-_IFSP_-_SBV.aux)
+
+LaTeX Warning: Unused global option(s):
+    [normalfigtabnum].
+
+(Template_-_Monografia_-_IFSP_-_SBV.aux
+
+LaTeX Warning: Label `fig:IVTemp' multiply defined.
+
+)
 \openout1 = `Template_-_Monografia_-_IFSP_-_SBV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 291.
@@ -1340,8 +1348,7 @@ LaTeX Font Info:    ... okay on input line 291.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 291.
 LaTeX Font Info:    ... okay on input line 291.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 291.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: Link coloring ON on input line 291.
@@ -1444,10 +1451,8 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 [1
 
-{C:/Users/Murilo F/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2
-
-]) (pre02FolhaDeRosto.tex
+{C:/Users/Murilo F/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+(pre02FolhaDeRosto.tex
 Underfull \hbox (badness 4872) in paragraph at lines 14--15
 []\T1/lmss/m/n/14.4 (+20) Trabalho de Con-clu-são de Curso
  []
@@ -1515,7 +1520,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
-(pre03FichaCatalografica.tex [3]
+(pre03FichaCatalografica.tex [2
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
  []
@@ -1541,21 +1548,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 49.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 49.
-) (pre04FolhaDeAprovacao.tex
-LaTeX Font Info:    Try loading font information for T1+bch on input line 9.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd"
-File: t1bch.fd 2004/10/18 font definitions for T1/bch.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-bch.cfg"
-File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
-
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 9.
- [4]
+) (pre04FolhaDeAprovacao.tex [3]
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 12.
@@ -1583,51 +1576,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[5
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 25.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 25.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 43.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd"
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-bch.cfg"
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
-] [6
-
-]) (pre05Dedicatoria.tex [7] [8
-
-]) (pre06Agradecimentos.tex [9
-
-] [10
+) [4
 
 ])
-(pre07Epigrafe.tex
+(pre05Dedicatoria.tex [5
+
+]) (pre06Agradecimentos.tex [6
+
+
+]) (pre07Epigrafe.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 7.
- [11] [12
 
-]) (pre08Resumo.tex [13] [14
+[7
 
-]) (pre09Abstract.tex
-[15] [16
+]) (pre08Resumo.tex [8
 
-]) (Template_-_Monografia_-_IFSP_-_SBV.lof) [17] [18
-
-]
-(Template_-_Monografia_-_IFSP_-_SBV.lot) [19] [20
-
-]
-(Template_-_Monografia_-_IFSP_-_SBV.loq) [21] [22
-
-] (pre10ListaSiglas.tex
-[23
-
-] [24
-
-]) (pre11ListaSimbolos.tex [25
-
-] [26
+]) (pre09Abstract.tex [9
 
 ])
-(Template_-_Monografia_-_IFSP_-_SBV.toc) [27] [28
+(Template_-_Monografia_-_IFSP_-_SBV.lof) [10
 
-] (capitulo01Introducao.tex
-Underfull \vbox (badness 1270) has occurred while \output is active []
+]
+(Template_-_Monografia_-_IFSP_-_SBV.lot) [11
 
- [29
+]
+(Template_-_Monografia_-_IFSP_-_SBV.loq) [12
+
+] (pre10ListaSiglas.tex [13
+
+
+])
+(pre11ListaSimbolos.tex [14
+
+
+]) (Template_-_Monografia_-_IFSP_-_SBV.toc) [15
+
+]
+(capitulo01Introducao.tex [16
+
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 26.
@@ -1638,31 +1636,49 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
 )
-(capitulo02RevisaoLiteratura.tex [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31
+(capitulo02RevisaoLiteratura.tex [17] [18
 
 ]
-<imagens/IxV_schill.jpg, id=232, 205.82497pt x 164.48653pt>
+<imagens/Temp_BRESSAN.jpg, id=190, 319.86702pt x 141.79375pt>
+File: imagens/Temp_BRESSAN.jpg Graphic file (type jpg)
+<use imagens/Temp_BRESSAN.jpg>
+Package pdftex.def Info: imagens/Temp_BRESSAN.jpg  used on input line 34.
+(pdftex.def)             Requested size: 415.82706pt x 184.33182pt.
+ [19 <./imagens/Temp_BRESSAN.jpg>]
+<imagens/IxV_schill.jpg, id=204, 205.82497pt x 164.48653pt>
 File: imagens/IxV_schill.jpg Graphic file (type jpg)
 <use imagens/IxV_schill.jpg>
-Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 24.
+Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 50.
 (pdftex.def)             Requested size: 308.73666pt x 246.72917pt.
+<imagens/IxV_Temp.jpg, id=212, 810.77907pt x 599.99156pt>
+File: imagens/IxV_Temp.jpg Graphic file (type jpg)
+<use imagens/IxV_Temp.jpg>
+Package pdftex.def Info: imagens/IxV_Temp.jpg  used on input line 66.
+(pdftex.def)             Requested size: 243.2356pt x 179.99886pt.
 
-[32]
-<imagens/exemploQuadro.png, id=245, 465.74pt x 243.91125pt>
+[20 <./imagens/IxV_schill.jpg>]
+
+LaTeX Warning: Reference `fig:CargaELE' on page 21 undefined on input line 73.
+
+<imagens/MOSFET_LOAD.jpg, id=227, 237.27583pt x 178.43655pt>
+File: imagens/MOSFET_LOAD.jpg Graphic file (type jpg)
+<use imagens/MOSFET_LOAD.jpg>
+Package pdftex.def Info: imagens/MOSFET_LOAD.jpg  used on input line 82.
+(pdftex.def)             Requested size: 237.27524pt x 178.43611pt.
+[21 <./imagens/IxV_Temp.jpg> <./imagens/MOSFET_LOAD.jpg>]
+<imagens/exemploQuadro.png, id=240, 465.74pt x 243.91125pt>
 File: imagens/exemploQuadro.png Graphic file (type png)
 <use imagens/exemploQuadro.png>
-Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 62.
+Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 119.
 (pdftex.def)             Requested size: 326.01578pt x 170.7367pt.
- [33 <./imagens/IxV_schill.jpg>]
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 79.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 79.
+nput line 136.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 136.
+
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1672,60 +1688,58 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(fontes/ClasseExemplo.java) [34 <./imagens/exemploQuadro.png>] [35]
+(fontes/ClasseExemplo.java) [22 <./imagens/exemploQuadro.png>] [23]
 
-LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 141.
-
-
-LaTeX Warning: Citation `Abedi2014' on page 36 undefined on input line 142.
+LaTeX Warning: Citation `Agaisse1995' on page 24 undefined on input line 198.
 
 
-LaTeX Warning: Citation `BtNomenclature2016' on page 36 undefined on input line
- 143.
+LaTeX Warning: Citation `Abedi2014' on page 24 undefined on input line 199.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 147.
+LaTeX Warning: Citation `BtNomenclature2016' on page 24 undefined on input line
+ 200.
 
 
-LaTeX Warning: Citation `Abedi2014' on page 36 undefined on input line 147.
+LaTeX Warning: Citation `Agaisse1995' on page 24 undefined on input line 204.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 36 undefined on input line 148.
+LaTeX Warning: Citation `Abedi2014' on page 24 undefined on input line 204.
 
 
-LaTeX Warning: Citation `BtNomenclature2016' on page 36 undefined on input line
- 148.
+LaTeX Warning: Citation `Nelson2014' on page 24 undefined on input line 205.
 
 
-LaTeX Warning: Citation `AgapitoTenfen2014' on page 36 undefined on input line 
-148.
+LaTeX Warning: Citation `BtNomenclature2016' on page 24 undefined on input line
+ 205.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 36 undefined on input line 162.
+LaTeX Warning: Citation `AgapitoTenfen2014' on page 24 undefined on input line 
+205.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 168.
+LaTeX Warning: Citation `Nelson2014' on page 24 undefined on input line 219.
 
-) (capitulo03Metodologia.tex [36]) (capitulo04ResultadosDiscussao.tex [37
 
-]
-[38
+LaTeX Warning: Citation `Agaisse1995' on page 24 undefined on input line 225.
 
-]) (capitulo05Conclusoes.tex [39] [40
+[24]) (capitulo03Metodologia.tex [25]) (capitulo04ResultadosDiscussao.tex
+[26
+
+]) (capitulo05Conclusoes.tex [27
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
 []\T1/lmss/m/n/24.88 CONCLUSÕES/CONCLUSÕES PAR-CI-
  []
 
-) (capitulo06Cronograma.tex [41] [42
+) (capitulo06Cronograma.tex [28
 
 ]) (Template_-_Monografia_-_IFSP_-_SBV.bbl
 (Template_-_Monografia_-_IFSP_-_SBV.brf)
 \tf@brf=\write7
 \openout7 = `Template_-_Monografia_-_IFSP_-_SBV.brf'.
 
- [43] [44
+ [29
 
 ]
 
@@ -1733,35 +1747,35 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-) (pos01Apendices.tex [45] [46
+) (pos01Apendices.tex [30
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[47
+[31
 
-] [48] [49
 
-] [50
+] [32
 
-]) (pos02Anexos.tex [51] [52
+]) (pos02Anexos.tex [33
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[53
+[34
 
-] [54] [55
 
-] [56
+] [35
 
 ]) 
 AED: lastpage setting LastPage
-[57]
+[36
+
+]
 
 Package catoptions Warning: Undefined options 
 (catoptions)                [Family, Option, Value]: 
@@ -1780,32 +1794,32 @@ Package catoptions Warning: Undefined options
 \tf@toc=\write11
 \openout11 = `Template_-_Monografia_-_IFSP_-_SBV.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 460.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 460.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 463.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 463.
 (Template_-_Monografia_-_IFSP_-_SBV.xwm)
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 460.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 460.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
 Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: 03FC183371241390848734FBD419500D;1184.
+(rerunfilecheck)             Checksum: E9E71475F7ABBAE1D53A3A2F2025EC0E;2237.
 
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 460.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 463.
  ) 
 Here is how much of TeX's memory you used:
- 33514 strings out of 492973
- 584853 string characters out of 3135921
- 909757 words of memory out of 3000000
- 36471 multiletter control sequences out of 15000+200000
+ 33534 strings out of 492973
+ 585601 string characters out of 3135921
+ 914875 words of memory out of 3000000
+ 36503 multiletter control sequences out of 15000+200000
  126972 words of font info for 166 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,13n,67p,1475b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 70i,13n,67p,1090b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/d
 vips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex
@@ -1828,10 +1842,10 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmt
 t10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (57 pages, 711793 byte
-s).
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (36 pages, 1325245 byt
+es).
 PDF statistics:
- 598 PDF objects out of 1000 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
- 43271 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 555 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 43286 words of extra memory for PDF output out of 51595 (max. 10000000)
 
