@@ -58,4 +58,26 @@
   pages   = {10--15},
 }
 
+@Article{painuly2001barriers,
+  author    = {Painuly, Jyoti P},
+  title     = {Barriers to renewable energy penetration; a framework for analysis},
+  journal   = {Renewable energy},
+  year      = {2001},
+  volume    = {24},
+  number    = {1},
+  pages     = {73--89},
+  publisher = {Elsevier},
+}
+
+@Article{caldeira2003climate,
+  author    = {Caldeira, Ken and Jain, Atul K and Hoffert, Martin I},
+  title     = {Climate sensitivity uncertainty and the need for energy without CO2 emission},
+  journal   = {Science},
+  year      = {2003},
+  volume    = {299},
+  number    = {5615},
+  pages     = {2052--2054},
+  publisher = {American Association for the Advancement of Science},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

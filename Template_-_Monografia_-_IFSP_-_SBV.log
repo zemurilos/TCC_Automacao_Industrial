@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  18 SEP 2018 17:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  19 SEP 2018 17:53
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -1324,11 +1324,7 @@ Writing index file Template_-_Monografia_-_IFSP_-_SBV.idx
 LaTeX Warning: Unused global option(s):
     [normalfigtabnum].
 
-(Template_-_Monografia_-_IFSP_-_SBV.aux
-
-LaTeX Warning: Label `fig:IVTemp' multiply defined.
-
-)
+(Template_-_Monografia_-_IFSP_-_SBV.aux)
 \openout1 = `Template_-_Monografia_-_IFSP_-_SBV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 291.
@@ -1348,7 +1344,8 @@ LaTeX Font Info:    ... okay on input line 291.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 291.
 LaTeX Font Info:    ... okay on input line 291.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 291.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: Link coloring ON on input line 291.
@@ -1636,48 +1633,50 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
 )
-(capitulo02RevisaoLiteratura.tex [17] [18
+(capitulo02RevisaoLiteratura.tex [17]
+<imagens/wind_solar.jpg, id=193, 228.9616pt x 174.5992pt>
+File: imagens/wind_solar.jpg Graphic file (type jpg)
+<use imagens/wind_solar.jpg>
+Package pdftex.def Info: imagens/wind_solar.jpg  used on input line 14.
+(pdftex.def)             Requested size: 343.44154pt x 261.89815pt.
+ [18
 
-]
-<imagens/Temp_BRESSAN.jpg, id=190, 319.86702pt x 141.79375pt>
+ <./imagens/wind_solar.jpg>] [19]
+<imagens/Temp_BRESSAN.jpg, id=215, 319.86702pt x 141.79375pt>
 File: imagens/Temp_BRESSAN.jpg Graphic file (type jpg)
 <use imagens/Temp_BRESSAN.jpg>
-Package pdftex.def Info: imagens/Temp_BRESSAN.jpg  used on input line 34.
+Package pdftex.def Info: imagens/Temp_BRESSAN.jpg  used on input line 53.
 (pdftex.def)             Requested size: 415.82706pt x 184.33182pt.
- [19 <./imagens/Temp_BRESSAN.jpg>]
-<imagens/IxV_schill.jpg, id=204, 205.82497pt x 164.48653pt>
+
+[20 <./imagens/Temp_BRESSAN.jpg>]
+<imagens/IxV_schill.jpg, id=227, 205.82497pt x 164.48653pt>
 File: imagens/IxV_schill.jpg Graphic file (type jpg)
 <use imagens/IxV_schill.jpg>
-Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 50.
+Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 69.
 (pdftex.def)             Requested size: 308.73666pt x 246.72917pt.
-<imagens/IxV_Temp.jpg, id=212, 810.77907pt x 599.99156pt>
+<imagens/IxV_Temp.jpg, id=235, 810.77907pt x 599.99156pt>
 File: imagens/IxV_Temp.jpg Graphic file (type jpg)
 <use imagens/IxV_Temp.jpg>
-Package pdftex.def Info: imagens/IxV_Temp.jpg  used on input line 66.
+Package pdftex.def Info: imagens/IxV_Temp.jpg  used on input line 85.
 (pdftex.def)             Requested size: 243.2356pt x 179.99886pt.
-
-[20 <./imagens/IxV_schill.jpg>]
-
-LaTeX Warning: Reference `fig:CargaELE' on page 21 undefined on input line 73.
-
-<imagens/MOSFET_LOAD.jpg, id=227, 237.27583pt x 178.43655pt>
+ [21 <./imagens/IxV_schill.jpg> <./imagens/IxV_Temp.jpg>]
+<imagens/MOSFET_LOAD.jpg, id=251, 237.27583pt x 178.43655pt>
 File: imagens/MOSFET_LOAD.jpg Graphic file (type jpg)
 <use imagens/MOSFET_LOAD.jpg>
-Package pdftex.def Info: imagens/MOSFET_LOAD.jpg  used on input line 82.
+Package pdftex.def Info: imagens/MOSFET_LOAD.jpg  used on input line 101.
 (pdftex.def)             Requested size: 237.27524pt x 178.43611pt.
-[21 <./imagens/IxV_Temp.jpg> <./imagens/MOSFET_LOAD.jpg>]
-<imagens/exemploQuadro.png, id=240, 465.74pt x 243.91125pt>
+<imagens/exemploQuadro.png, id=258, 465.74pt x 243.91125pt>
 File: imagens/exemploQuadro.png Graphic file (type png)
 <use imagens/exemploQuadro.png>
-Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 119.
+Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 138.
 (pdftex.def)             Requested size: 326.01578pt x 170.7367pt.
-
+ [22 <./imagens/MOSFET_LOAD.jpg>]
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 136.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 136.
+nput line 155.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 155.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
@@ -1688,44 +1687,44 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(fontes/ClasseExemplo.java) [22 <./imagens/exemploQuadro.png>] [23]
+(fontes/ClasseExemplo.java) [23 <./imagens/exemploQuadro.png>] [24]
 
-LaTeX Warning: Citation `Agaisse1995' on page 24 undefined on input line 198.
-
-
-LaTeX Warning: Citation `Abedi2014' on page 24 undefined on input line 199.
+LaTeX Warning: Citation `Agaisse1995' on page 25 undefined on input line 217.
 
 
-LaTeX Warning: Citation `BtNomenclature2016' on page 24 undefined on input line
- 200.
+LaTeX Warning: Citation `Abedi2014' on page 25 undefined on input line 218.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 24 undefined on input line 204.
+LaTeX Warning: Citation `BtNomenclature2016' on page 25 undefined on input line
+ 219.
 
 
-LaTeX Warning: Citation `Abedi2014' on page 24 undefined on input line 204.
+LaTeX Warning: Citation `Agaisse1995' on page 25 undefined on input line 223.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 24 undefined on input line 205.
+LaTeX Warning: Citation `Abedi2014' on page 25 undefined on input line 223.
 
 
-LaTeX Warning: Citation `BtNomenclature2016' on page 24 undefined on input line
- 205.
+LaTeX Warning: Citation `Nelson2014' on page 25 undefined on input line 224.
 
 
-LaTeX Warning: Citation `AgapitoTenfen2014' on page 24 undefined on input line 
-205.
+LaTeX Warning: Citation `BtNomenclature2016' on page 25 undefined on input line
+ 224.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 24 undefined on input line 219.
+LaTeX Warning: Citation `AgapitoTenfen2014' on page 25 undefined on input line 
+224.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 24 undefined on input line 225.
+LaTeX Warning: Citation `Nelson2014' on page 25 undefined on input line 238.
 
-[24]) (capitulo03Metodologia.tex [25]) (capitulo04ResultadosDiscussao.tex
-[26
 
-]) (capitulo05Conclusoes.tex [27
+LaTeX Warning: Citation `Agaisse1995' on page 25 undefined on input line 244.
+
+) (capitulo03Metodologia.tex [25]) (capitulo04ResultadosDiscussao.tex [26
+
+])
+(capitulo05Conclusoes.tex [27
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -1802,22 +1801,22 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
 Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: E9E71475F7ABBAE1D53A3A2F2025EC0E;2237.
+(rerunfilecheck)             Checksum: 91A4082C03C6DF0BDCB30FE474B9AD46;2763.
 
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 463.
  ) 
 Here is how much of TeX's memory you used:
- 33534 strings out of 492973
- 585601 string characters out of 3135921
- 914875 words of memory out of 3000000
- 36503 multiletter control sequences out of 15000+200000
- 126972 words of font info for 166 fonts, out of 3000000 for 9000
+ 33571 strings out of 492973
+ 586407 string characters out of 3135921
+ 914779 words of memory out of 3000000
+ 36526 multiletter control sequences out of 15000+200000
+ 127427 words of font info for 171 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,13n,67p,1090b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
@@ -1842,10 +1841,10 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmt
 t10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (36 pages, 1325245 byt
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (36 pages, 1371677 byt
 es).
 PDF statistics:
- 555 PDF objects out of 1000 (max. 8388607)
- 116 named destinations out of 1000 (max. 500000)
- 43286 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 578 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 43291 words of extra memory for PDF output out of 51595 (max. 10000000)
 
