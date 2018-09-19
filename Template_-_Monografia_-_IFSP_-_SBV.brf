@@ -1,3 +1,5 @@
+\backcite {weitemeyer2015integration}{{10}{(document)}{Doc-Start}}
+\backcite {weitemeyer2015integration}{{10}{(document)}{Doc-Start}}
 \backcite {BRESSAN20161181}{{10}{(document)}{Doc-Start}}
 \backcite {BRESSAN20161181}{{10}{(document)}{Doc-Start}}
 \backcite {SCHILL2015259}{{10}{(document)}{Doc-Start}}
@@ -6,34 +8,40 @@
 \backcite {martin2017temperature}{{10}{(document)}{Doc-Start}}
 \backcite {WILLOUGHBY2018171}{{10}{(document)}{Doc-Start}}
 \backcite {WILLOUGHBY2018171}{{10}{(document)}{Doc-Start}}
-\backcite {WILLOUGHBY2018171}{{18}{2}{chapter.2}}
-\backcite {WILLOUGHBY2018171}{{18}{2}{chapter.2}}
-\backcite {BRESSAN20161181}{{19}{2}{chapter.2}}
-\backcite {BRESSAN20161181}{{19}{2}{chapter.2}}
-\backcite {BRESSAN20161181}{{19}{1}{figure.caption.12}}
-\backcite {BRESSAN20161181}{{19}{1}{figure.caption.12}}
-\backcite {SCHILL2015259}{{20}{2}{figure.caption.12}}
-\backcite {SCHILL2015259}{{20}{2}{figure.caption.12}}
+\backcite {caldeira2003climate}{{18}{2}{chapter.2}}
+\backcite {caldeira2003climate}{{18}{2}{chapter.2}}
+\backcite {weitemeyer2015integration}{{18}{2}{chapter.2}}
+\backcite {weitemeyer2015integration}{{18}{2}{chapter.2}}
+\backcite {weitemeyer2015integration}{{18}{1}{figure.caption.12}}
+\backcite {weitemeyer2015integration}{{18}{1}{figure.caption.12}}
+\backcite {WILLOUGHBY2018171}{{19}{2}{figure.caption.12}}
+\backcite {WILLOUGHBY2018171}{{19}{2}{figure.caption.12}}
+\backcite {BRESSAN20161181}{{20}{2}{figure.caption.12}}
+\backcite {BRESSAN20161181}{{20}{2}{figure.caption.12}}
+\backcite {BRESSAN20161181}{{20}{2}{figure.caption.13}}
+\backcite {BRESSAN20161181}{{20}{2}{figure.caption.13}}
 \backcite {SCHILL2015259}{{20}{2}{figure.caption.13}}
 \backcite {SCHILL2015259}{{20}{2}{figure.caption.13}}
-\backcite {martin2017temperature}{{20}{2}{figure.caption.13}}
-\backcite {martin2017temperature}{{20}{2}{figure.caption.13}}
-\backcite {martin2017temperature}{{21}{3}{figure.caption.14}}
-\backcite {martin2017temperature}{{21}{3}{figure.caption.14}}
-\backcite {SCHILL2015259}{{21}{2}{figure.caption.14}}
-\backcite {SCHILL2015259}{{21}{2}{figure.caption.14}}
-\backcite {aliaga2016experimental}{{21}{2}{figure.caption.14}}
-\backcite {aliaga2016experimental}{{21}{2}{figure.caption.14}}
-\backcite {WILLOUGHBY2018171}{{21}{2}{figure.caption.14}}
-\backcite {WILLOUGHBY2018171}{{21}{4}{figure.caption.15}}
-\backcite {WILLOUGHBY2018171}{{21}{4}{figure.caption.15}}
-\backcite {Agaisse1995}{{24}{2}{Item.7}}
-\backcite {Abedi2014}{{24}{2}{Item.7}}
-\backcite {BtNomenclature2016}{{24}{2}{Item.7}}
-\backcite {Agaisse1995, Abedi2014}{{24}{2}{Item.7}}
-\backcite {Agaisse1995, Abedi2014}{{24}{2}{Item.7}}
-\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{24}{2}{Item.7}}
-\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{24}{2}{Item.7}}
-\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{24}{2}{Item.7}}
-\backcite {Nelson2014}{{24}{2}{Item.7}}
+\backcite {SCHILL2015259}{{21}{3}{figure.caption.14}}
+\backcite {SCHILL2015259}{{21}{3}{figure.caption.14}}
+\backcite {martin2017temperature}{{21}{2}{figure.caption.14}}
+\backcite {martin2017temperature}{{21}{2}{figure.caption.14}}
+\backcite {martin2017temperature}{{21}{4}{figure.caption.15}}
+\backcite {martin2017temperature}{{21}{4}{figure.caption.15}}
+\backcite {SCHILL2015259}{{22}{2}{figure.caption.15}}
+\backcite {SCHILL2015259}{{22}{2}{figure.caption.15}}
+\backcite {aliaga2016experimental}{{22}{2}{figure.caption.15}}
+\backcite {aliaga2016experimental}{{22}{2}{figure.caption.15}}
+\backcite {WILLOUGHBY2018171}{{22}{2}{figure.caption.15}}
+\backcite {WILLOUGHBY2018171}{{22}{5}{figure.caption.16}}
+\backcite {WILLOUGHBY2018171}{{22}{5}{figure.caption.16}}
+\backcite {Agaisse1995}{{25}{2}{Item.7}}
+\backcite {Abedi2014}{{25}{2}{Item.7}}
+\backcite {BtNomenclature2016}{{25}{2}{Item.7}}
+\backcite {Agaisse1995, Abedi2014}{{25}{2}{Item.7}}
+\backcite {Agaisse1995, Abedi2014}{{25}{2}{Item.7}}
+\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{25}{2}{Item.7}}
+\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{25}{2}{Item.7}}
+\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{25}{2}{Item.7}}
+\backcite {Nelson2014}{{25}{2}{Item.7}}
 \backcite {Agaisse1995}{{25}{2}{Item.7}}
