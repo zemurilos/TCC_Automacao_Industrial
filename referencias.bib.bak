@@ -58,4 +58,46 @@
   pages   = {10--15},
 }
 
+@Article{painuly2001barriers,
+  author    = {Painuly, Jyoti P},
+  title     = {Barriers to renewable energy penetration; a framework for analysis},
+  journal   = {Renewable energy},
+  year      = {2001},
+  volume    = {24},
+  number    = {1},
+  pages     = {73--89},
+  publisher = {Elsevier},
+}
+
+@Article{caldeira2003climate,
+  author    = {Caldeira, Ken and Jain, Atul K and Hoffert, Martin I},
+  title     = {Climate sensitivity uncertainty and the need for energy without CO2 emission},
+  journal   = {Science},
+  year      = {2003},
+  volume    = {299},
+  number    = {5615},
+  pages     = {2052--2054},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@Article{weitemeyer2015integration,
+  author    = {Weitemeyer, Stefan and Kleinhans, David and Vogt, Thomas and Agert, Carsten},
+  title     = {Integration of Renewable Energy Sources in future power systems: The role of storage},
+  journal   = {Renewable Energy},
+  year      = {2015},
+  volume    = {75},
+  pages     = {14--20},
+  publisher = {Elsevier},
+}
+
+@Article{amiry2018design,
+  author    = {Amiry, H and Benhmida, M and Bendaoud, R and Hajjaj, C and Bounouar, S and Yadir, S and Ra{\"\i}s, K and Sidki, M},
+  title     = {Design and implementation of a photovoltaic IV curve tracer: Solar modules characterization under real operating conditions},
+  journal   = {Energy Conversion and Management},
+  year      = {2018},
+  volume    = {169},
+  pages     = {206--216},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

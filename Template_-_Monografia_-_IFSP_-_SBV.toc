@@ -18,38 +18,40 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Revis\IeC {\~a}o da Literatura}}{18}{chapter.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{26}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Materiais e M\IeC {\'e}todos}}{26}{chapter.3}
+\contentsline {section}{\numberline {3.1}Arduino}{26}{section.3.1}
+\contentsline {section}{\numberline {3.2}ADS1115}{27}{section.3.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Resultados e Discuss\IeC {\~a}o}}{27}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Resultados e Discuss\IeC {\~a}o}}{28}{chapter.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclus\IeC {\~o}es/Conclus\IeC {\~o}es Parciais}}{28}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclus\IeC {\~o}es/Conclus\IeC {\~o}es Parciais}}{29}{chapter.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Cronograma}}{29}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Cronograma}}{30}{chapter.6}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{30}{section*.20}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{31}{section*.23}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Ap\^endices}}{31}{section*.21}
+\contentsline {part}{\uppercase {Ap\^endices}}{32}{section*.24}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice A}}{32}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice A}}{33}{appendix.A}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice B}}{33}{appendix.B}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice B}}{34}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{34}{section*.22}
+\contentsline {part}{\uppercase {Anexos}}{35}{section*.25}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {T\IeC {\'\i }tulo do Anexo A}}{35}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {T\IeC {\'\i }tulo do Anexo A}}{36}{appendix.anexochapback.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {T\IeC {\'\i }tulo do Anexo B}}{36}{appendix.anexochapback.2}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {T\IeC {\'\i }tulo do Anexo B}}{37}{appendix.anexochapback.2}
