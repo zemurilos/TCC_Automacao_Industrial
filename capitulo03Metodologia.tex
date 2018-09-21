@@ -53,4 +53,23 @@ A seguir há listado as principais características encontradas no hardware do A
 Conforma mostrado na tabela~\ref{tab:ArduinoUno}, o Arduino Uno possui 6 entradas analógicas, entretanto há grande imprecisão nestas entradas. De forma a garantir maior precisão nas coletas de dados foi utilizado um modulo conversor analógico.
 
 \section{ADS1115}
-O modulo ADS1115 da Adafruit...
+O modulo ADS1115 da Adafruit é um modulo ADC com resolução de 16-Bits e utiliza a comunicação I2C, o uso deste modulo foi vital para a aquisição de dados.
+
+Diferentemente dos conversores Analogico Digital integrados na placa Arduino, o modulo ADS1115 possui ótima repetibilidade e grande precisão durante a a aquisição dos valores.
+
+Há ainda a possibilidade do uso de amplificadores internos através de FPGA de forma a aumentar ainda mais a precisão das medidas.
+
+Ao se utilizar sua resolução de 16-Bits, e ganho unitário é possível obter-se uma precisão de $0,125 mV$, o qual ultrapassa grandemente o fundo de escala de $4,9mV$ do ADC proveniente do Arduino.
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/ADS}
+	\caption{Diagrama de blocos. Fonte: Datasheet do fabricante. }
+	
+	\label{fig:Ads}
+\end{figure}
+\FloatBarrier
