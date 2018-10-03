@@ -12,9 +12,9 @@
 	% -- opções da classe memoir --
 	12pt,				% tamanho da fonte
 	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
-	twoside,			% para impressão em verso e anverso. Oposto a oneside
+	oneside,			% para impressão em verso e anverso. Oposto a oneside
 	a4paper,			% tamanho do papel. 
-	%normalfigtabnum,
+	normalfigtabnum,
 	%pnumromarab,
 	% -- opções da classe abntex2 --
 	chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
@@ -43,6 +43,7 @@
 \usepackage{lmodern}			% Usa a fonte Latin Modern			
 \usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
 \usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+
 \usepackage{lastpage}			% Usado pela Ficha catalográfica
 \usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
 \usepackage{color}				% Controle das cores
@@ -163,7 +164,7 @@
 % ---
 
 \curso{Tecnologia em Automação Industrial}
-\grau{}
+\grau{Tecnólogo em Automação Industrial}
 
 %exemplos
 %\curso{Tecnologia em Sistemas para Internet}
@@ -171,7 +172,7 @@
 %\curso{Especialização em Desenvolvimento de Aplicações para Dispositivos Móveis}
 %\grau{Especialista em Desenvolvimento de Aplicações para Dispositivos Móveis}
 
-\titulo{Analise de arranjos fotovoltaicos através do uso de MPPT}
+\titulo{Analise de arranjos fotovoltaicos através do uso da curva caracteristica I-V}
 
 % caso não haja subtítulo, comente a linha abaixo
 %\subtitulo{subtítulo}
@@ -401,6 +402,9 @@
 %                                  ELEMENTOS TEXTUAIS
 % ---------------------------------------------------------------------------------
 \textual
+
+\pagestyle{simple}
+\aliaspagestyle{chapter}{simple}
 
 \input{capitulo01Introducao}
 \input{capitulo02RevisaoLiteratura}

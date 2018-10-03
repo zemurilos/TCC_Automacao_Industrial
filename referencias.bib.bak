@@ -118,17 +118,4 @@
   publisher = {Directory of Open Access Journals},
 }
 
-@Article{GAO201852,
-  author   = {Qi Gao and Yating Zhang and Youlin Yu and Zhengxin Liu},
-  title    = {A direct current-voltage measurement method for smart photovoltaic modules with submodule level power optimizers},
-  journal  = {Solar Energy},
-  year     = {2018},
-  volume   = {167},
-  pages    = {52 - 60},
-  issn     = {0038-092X},
-  doi      = {https://doi.org/10.1016/j.solener.2018.03.082},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0038092X18303141},
-  keywords = {Smart photovoltaic (SPV) module, I-V measurement, Fourier analysis, Power optimizer},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}
