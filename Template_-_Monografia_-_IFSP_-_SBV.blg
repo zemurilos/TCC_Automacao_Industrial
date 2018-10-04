@@ -2,24 +2,15 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Template_-_Monografia
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: referencias.bib
-I was expecting a `{' or a `('---line 3 of file referencias.bib
- :  - @article: 
- :              artigo em periódico;
-I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 4 of file referencias.bib
- :  - @book: 
- :           livro;
-I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 5 of file referencias.bib
- :  - @online: 
- :             recurso online / página web.
-I'm skipping whatever remains of this entry
-Warning--entry type for "BtNomenclature2016" isn't style-file defined
---line 47 of file referencias.bib
 Warning--I didn't find a database entry for "abnt-emphasize"
+Warning--I didn't find a database entry for "Agaisse1995"
+Warning--I didn't find a database entry for "Abedi2014"
+Warning--I didn't find a database entry for "BtNomenclature2016"
+Warning--I didn't find a database entry for "Nelson2014"
+Warning--I didn't find a database entry for "AgapitoTenfen2014"
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There were 3 error messages)
+(There were 6 warnings)
