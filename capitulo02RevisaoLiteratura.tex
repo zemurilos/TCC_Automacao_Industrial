@@ -44,7 +44,7 @@ Devido a oscilações anuais dos índices de chuva, o racionamento de energia ca
 	%1.5 = 150% do tamanho original
 	%1 = 100% do tamanho original
 	%0.20 = 20% do tamanho original
-	\includegraphics[scale=1]{imagens/FontesEnergia}
+	\includegraphics[scale=0.5]{imagens/FontesEnergia}
 	\caption{Distribuição da matriz energética brasileira. Fonte:  \citeauthorandyear{wanderley2013perspectivas}. }
 	
 	\label{fig:FonteEnergia}
@@ -148,12 +148,169 @@ Assim como aponta \citeauthorandyear{SCHILL2015259}, o elemento central para a g
 \end{figure}
 \FloatBarrier
 
-%\cite
+\section{Componentes}
+
+Para a aquisição de dados foram utilizados diversos conceitos e ferramentas eletrônicas de diversas esferas específicas, garantindo uma melhor adaptação para o objetivo específico de traçador IxV.%ADICIONAR REFERÊNCIAS SOBRE O PROTÓTIPO
+
+\subsection{Arduino}
+Arduino, plataforma \textit{open-source}, baseada em fácil prototipagem eletrônica e de programação, permite o fácil e rápido desenvolvimento de protótipos. Devido a fácil disponibilidade no mercado e alto custo x benefício, fez-se o uso do Arduino Uno como componente principal para o controle e aquisição de dados para a curva IxV.
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/Uno}
+	\caption{Exemplos de Arduinos Uno. Fonte:  \url{https://www.arduino.cc/en/Guide/ArduinoUno}. }
+	
+	\label{fig:ArduinoUno}
+\end{figure}
+\FloatBarrier
+
+Na Tabela 2 São Listadas as principais características encontradas no hardware do Arduino Uno.
+
+\FloatBarrier
+\begin{table}[!htbp]
+	\centering
+	\caption{Tabela do hardware do microcontrolado do Arduino Uno(Atmega328p)}
+	\begin{tabular}{ c | c }
+		\hline
+		Microcontrolador                & ATmega328P         \\ \hline
+		Tensão operacional              & 5 V                \\ \hline
+		Tensão de entrada (recomendado) & 7-12 V             \\ \hline
+		Pinos Digital I / O             & 6-20 V             \\ \hline
+		PWM Digital I / O Pins          & 6                  \\ \hline
+		Pinos de entrada analógica      & 6                  \\ \hline
+		Corrente DC por pino de E / S   & 20 mA              \\ \hline
+		Corrente DC para Pin 3.3V       & 50 mA              \\ \hline
+		Memória flash                   & 32 KB (ATmega328P) \\ \hline
+		SRAM                            & 2 KB (ATmega328P)  \\ \hline
+		EEPROM                          & 1 KB (ATmega328P)  \\ \hline
+		Velocidade do relógio(Clock)    & 16 MHz             \\ \hline
+		LED BUILTIN                     & 13                 \\ \hline
+		comprimento                     & 68.6 mm            \\ \hline
+		Largura                         & 53.4 mm            \\ \hline
+		Peso                            & 25 g               \\ \hline
+	\end{tabular}
+	\\ \vspace{0.2cm}
+	\textbf{Fonte:} Adaptado de \url{https://store.arduino.cc/usa/arduino-uno-rev3} .
+	\label{tab:ArduinoUno}
+\end{table}
+\FloatBarrier
+
+Conforma mostrado na tabela~\ref{tab:ArduinoUno}, o Arduino Uno possui 6 entradas analógicas, e 6 saídas PWM.
+
+\subsubsection{PWM}
+
+PWM, ou \textit{Pulse Width Modulation}, ou ainda Modulação por Largura de Pulso, através da variação da largura de pulso ...
+
+\subsubsection{ADC}
+
+\subsection{ADS1115}
+O módulo ADS1115 da Adafruit é um módulo ADC com resolução de 16-Bits e utiliza a comunicação I2C, o uso deste módulo foi vital para a aquisição de dados.
+
+Diferentemente dos conversores Analógico Digital integrados na placa Arduino, o módulo ADS1115 possui ótima repetibilidade e grande precisão durante a a aquisição dos valores.
+
+Há ainda a possibilidade do uso de amplificadores internos através de PGA de forma a aumentar ainda mais a precisão das medidas.
+
+Ao se utilizar sua resolução de 16-Bits, e ganho unitário é possível obter-se uma precisão de 0,125 $mV$, o qual ultrapassa grandemente o fundo de escala de 4,9 $mV$ do ADC proveniente do Arduino.%ADICIONAR REFERÊNCIA DE ONDE TIROU OS DADOS
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/ADS}
+	\caption{Diagrama de blocos. Fonte: Datasheet do fabricante. }%ADICIONAR DATASHEET COM OS DADOS DO ARDUINO.
+	
+	\label{fig:Ads}
+\end{figure}
+\FloatBarrier
+
+O módulo ADS1115 utiliza o barramento de comunicação I2C, o qual possui grande compatibilidade com grande parte dos microcontroladores do mercado.
+
+\subsubsection{I2C}
+
+O barramento I2C ou IIC, \textit{Inter-Integrated Circuit}, é um protocolo de comunicação mundialmente utilizado e implementado em mais de 1000 Circuitos Integrados diferentes. É utilizado em diferentes sistemas, desde controle inteligente, circuitos genéricos de LCD, LED, EEPROM até circuitos mais complexos como processadores de sinal de radio e vídeo. A comunicação por I2C permite uma taxa de transferência de $100 kbit/s$ a até $3,4 Mbits/s$ no modo \textit{High-speed mode}, modo de alta velocidade, tendo um máximo de 127 sensores \cite{semiconductors2000i2c}.
+
+O I2C é um protocolo que utiliza o modelo origem/destino, mestre/escravo, o qual permite a comunicação entre múltiplos "escravos" para um ou mais "mestres". Assim como protocolos assíncronos, é utilizado apenas 2 fios para a comunicação, sendo eles SDA(\textit{Serial Data Line}, Linha de Dados Seriais), e SCL(\textit{Serial Clock Line}, Linha de Clock Serial), entretanto diferentemente dos protocolos assíncronos, o I2C permite a comunicação síncrona, permitindo a comunicação entre dispositivos que não necessitem ser pré-configurados para se comunicarem.
+
+O protocolo se utiliza de 8 bits de dados seguido de um bit extra de reconhecimento("ACK/NACK"). Para se iniciar a comunicação é enviado um \textit{Start Bit}, o qual indica o inicio da troca de dados, após o envio da mensagem de 8 bits, é enviado o bit ACK e se repete o processo, até a presença de um \textit{Stop Bit}, o qual termina a troca de informações assim como demonstrado na figura ~\ref{fig:I2C1}.
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/I2C}
+	\caption{Exemplo de comunicação utilizando o protocolo I2C. Fonte: \cite{semiconductors2000i2c}. }
+	
+	\label{fig:I2C1}
+\end{figure}
+\FloatBarrier
+
+\subsection{Cartão SD}
+
+Em sistemas onde há a aquisição de dados, se faz útil o uso de memórias externas e portáteis, permitindo assim grande parte da memória do microcontrolador livre para outras tarefas. Um exemplo de memória externa e muito comum são os cartões \textit{MicroSD}, em diversos modelos de como demonstrado pela figura ~\ref{fig:SD1}, muito usados em celulares e câmeras digitais. Há possibilidade de comunicação a partir do protocolo SPI, o qual permite uma rápida comunicação em baixas distâncias.
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/SDCARD}
+	\caption{Modelos de Cartão SD. Fonte: SD Association. %Disponível em %<https://www.sdcard.org/developers/overview/family/index.html>.}
+	}
+	\label{fig:SD1}
+\end{figure}
+\FloatBarrier
+
+\subsubsection{SPI}
+
+O protocolo SPI permite a comunicação entre diferentes dispositivos, diferentemente do protocolo I2C, é necessário 4 fios para a comunicação. Além disso, o protocolo SPI possui o modo de operação \textit{Full-duplex}, o qual permite a a transmissão de dados entre do mestre para o escravo, e vice-versa, simultaneamente. Há também a diferença na quantidade de mestres, no protocolo SPI pode haver apenas um mestre.
+
+As conexões para SPI possuem a seguinte característica:
+\begin{itemize}
+	\item SCLK: Envia o clock a partir do mestre para o escravo.
+	\item $SS_n$: Utilizado para selecionar o escravo que irá se comunicar com o mestre, é necessário um SS para cada escravo utilizado no barramento 
+	\item MOSI: Envia o dado do mestre para o escravo.
+	\item MISO: Envia o dado do escravo para o mestre.
+\end{itemize}
+
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/SPI}
+	\caption{Exemplo comunicação SPI. %Fonte: SD Association.}
+	}
+	\label{fig:SPI}
+\end{figure}
+\FloatBarrier
 
 
 
+\subsection{Carga Eletrônica}
+
+O uso da carga eletrônica tem grande importância para o funcionamento do traçador. Ao se utilizar uma carga eletrônica, é possível simular diversas cargas e subsequentemente simular diferentes valores corrente(I) e tensão(V).
+
+\subsubsection{MOSFET}
+
+O MOSFET, \textit{Metal Oxide Semiconductor Field Effect Transistor}, assim como um transistor, há o uso de materiais semicondutores ...
 
 Este é um exemplo de como usar tabelas. Referência cruzada: Tabela~\ref{tab:exemplo}
+
 
 \FloatBarrier
 \begin{table}[!htbp]
