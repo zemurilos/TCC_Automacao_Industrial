@@ -140,4 +140,25 @@
   publisher = {National Acad Sciences},
 }
 
+@Article{semiconductors2000i2c,
+  author  = {Semiconductors, Philips},
+  title   = {The I2C-bus specification},
+  journal = {Philips Semiconductors},
+  year    = {2000},
+  volume  = {9397},
+  number  = {750},
+  pages   = {00954},
+}
+
+@Article{leens2009introduction,
+  author    = {Leens, Fr{\'e}d{\'e}ric},
+  title     = {An introduction to I 2 C and SPI protocols},
+  journal   = {IEEE Instrumentation \& Measurement Magazine},
+  year      = {2009},
+  volume    = {12},
+  number    = {1},
+  pages     = {8--13},
+  publisher = {IEEE},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
