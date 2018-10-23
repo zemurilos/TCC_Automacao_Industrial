@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  22 OCT 2018 07:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  23 OCT 2018 13:33
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -1709,52 +1709,51 @@ Package pdftex.def Info: imagens/Uno.png  used on input line 165.
 <imagens/ADS.png, id=363, 567.5604pt x 283.7802pt>
 File: imagens/ADS.png Graphic file (type png)
 <use imagens/ADS.png>
-Package pdftex.def Info: imagens/ADS.png  used on input line 226.
+Package pdftex.def Info: imagens/ADS.png  used on input line 229.
 (pdftex.def)             Requested size: 397.28957pt x 198.64478pt.
+ [27]
 
+LaTeX Warning: Citation `semiconductors2000i2c' on page 28 undefined on input l
+ine 240.
 
-LaTeX Warning: Citation `semiconductors2000i2c' on page 27 undefined on input l
-ine 237.
-
-[27 <./imagens/ADS.png>]
 <imagens/I2C.jpg, id=369, 620.3175pt x 185.94469pt>
 File: imagens/I2C.jpg Graphic file (type jpg)
 <use imagens/I2C.jpg>
-Package pdftex.def Info: imagens/I2C.jpg  used on input line 250.
+Package pdftex.def Info: imagens/I2C.jpg  used on input line 253.
 (pdftex.def)             Requested size: 434.2193pt x 130.16037pt.
 
+LaTeX Warning: Citation `semiconductors2000i2c' on page 28 undefined on input l
+ine 254.
+
 
 LaTeX Warning: Citation `semiconductors2000i2c' on page 28 undefined on input l
-ine 251.
+ine 254.
 
-
-LaTeX Warning: Citation `semiconductors2000i2c' on page 28 undefined on input l
-ine 251.
-
-<imagens/SDCARD.png, id=371, 494.59781pt x 182.93344pt>
+[28 <./imagens/ADS.png>]
+<imagens/SDCARD.png, id=375, 494.59781pt x 182.93344pt>
 File: imagens/SDCARD.png Graphic file (type png)
 <use imagens/SDCARD.png>
-Package pdftex.def Info: imagens/SDCARD.png  used on input line 268.
+Package pdftex.def Info: imagens/SDCARD.png  used on input line 271.
 (pdftex.def)             Requested size: 346.2161pt x 128.05252pt.
-[28 <./imagens/I2C.jpg>]
-<imagens/SPI.png, id=376, 602.25pt x 363.60844pt>
+ [29 <./imagens/I2C.jpg> <./imagens/SDCARD.png>]
+<imagens/SPI.png, id=381, 602.25pt x 363.60844pt>
 File: imagens/SPI.png Graphic file (type png)
 <use imagens/SPI.png>
-Package pdftex.def Info: imagens/SPI.png  used on input line 295.
+Package pdftex.def Info: imagens/SPI.png  used on input line 298.
 (pdftex.def)             Requested size: 421.57211pt x 254.52417pt.
- [29 <./imagens/SDCARD.png>]
 <imagens/exemploQuadro.png, id=384, 465.74pt x 243.91125pt>
 File: imagens/exemploQuadro.png Graphic file (type png)
 <use imagens/exemploQuadro.png>
-Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 340.
+Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 343.
 (pdftex.def)             Requested size: 326.01578pt x 170.7367pt.
- [30 <./imagens/SPI.png>]
+
+[30 <./imagens/SPI.png>]
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 357.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 357.
+nput line 360.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 360.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
@@ -1767,37 +1766,37 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 (fontes/ClasseExemplo.java) [31 <./imagens/exemploQuadro.png>] [32]
 
-LaTeX Warning: Citation `Agaisse1995' on page 33 undefined on input line 419.
+LaTeX Warning: Citation `Agaisse1995' on page 33 undefined on input line 422.
 
 
-LaTeX Warning: Citation `Abedi2014' on page 33 undefined on input line 420.
-
-
-LaTeX Warning: Citation `BtNomenclature2016' on page 33 undefined on input line
- 421.
-
-
-LaTeX Warning: Citation `Agaisse1995' on page 33 undefined on input line 425.
-
-
-LaTeX Warning: Citation `Abedi2014' on page 33 undefined on input line 425.
-
-
-LaTeX Warning: Citation `Nelson2014' on page 33 undefined on input line 426.
+LaTeX Warning: Citation `Abedi2014' on page 33 undefined on input line 423.
 
 
 LaTeX Warning: Citation `BtNomenclature2016' on page 33 undefined on input line
- 426.
+ 424.
+
+
+LaTeX Warning: Citation `Agaisse1995' on page 33 undefined on input line 428.
+
+
+LaTeX Warning: Citation `Abedi2014' on page 33 undefined on input line 428.
+
+
+LaTeX Warning: Citation `Nelson2014' on page 33 undefined on input line 429.
+
+
+LaTeX Warning: Citation `BtNomenclature2016' on page 33 undefined on input line
+ 429.
 
 
 LaTeX Warning: Citation `AgapitoTenfen2014' on page 33 undefined on input line 
-426.
+429.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 33 undefined on input line 440.
+LaTeX Warning: Citation `Nelson2014' on page 33 undefined on input line 443.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 33 undefined on input line 446.
+LaTeX Warning: Citation `Agaisse1995' on page 33 undefined on input line 449.
 
 ) (capitulo03Metodologia.tex [33]) (capitulo04ResultadosDiscussao.tex [34
 
@@ -1871,16 +1870,10 @@ Package atveryend Info: Executing hook `AfterLastShipout' on input line 462.
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 462.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 462.
+Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
+not changed.
+(rerunfilecheck)             Checksum: 9271C3655D712B52EEAEEDDD2F6446D9;4196.
 
-
-Package rerunfilecheck Warning: File `Template_-_Monografia_-_IFSP_-_SBV.brf' h
-as changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `Template_-_Monografia_-_IFSP_-_SBV.
-brf':
-(rerunfilecheck)             Before: 6A4E0B05CD18A10F76AA8F2BD4B9A343;4260
-(rerunfilecheck)             After:  06AA398AC16580C94D88101DD23A6F09;4196.
 
 LaTeX Warning: There were undefined references.
 
@@ -1892,7 +1885,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 462.
 Here is how much of TeX's memory you used:
  33615 strings out of 492973
  585541 string characters out of 3135921
- 915159 words of memory out of 3000000
+ 915918 words of memory out of 3000000
  36520 multiletter control sequences out of 15000+200000
  125496 words of font info for 179 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1918,7 +1911,7 @@ mss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/lm/lmtt12.pfb>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (44 pages, 3953829 byt
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (44 pages, 3952886 byt
 es).
 PDF statistics:
  746 PDF objects out of 1000 (max. 8388607)

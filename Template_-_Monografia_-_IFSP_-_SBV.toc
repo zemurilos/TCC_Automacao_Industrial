@@ -22,8 +22,8 @@
 \contentsline {subsubsection}{\numberline {2.1.1.1}PWM}{27}{subsubsection.2.1.1.1}
 \contentsline {subsubsection}{\numberline {2.1.1.2}ADC}{27}{subsubsection.2.1.1.2}
 \contentsline {subsection}{\numberline {2.1.2}ADS1115}{27}{subsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.2.1}I2C}{27}{subsubsection.2.1.2.1}
-\contentsline {subsection}{\numberline {2.1.3}Cart\IeC {\~a}o SD}{28}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.2.1}I2C}{28}{subsubsection.2.1.2.1}
+\contentsline {subsection}{\numberline {2.1.3}Cart\IeC {\~a}o SD}{29}{subsection.2.1.3}
 \contentsline {subsubsection}{\numberline {2.1.3.1}SPI}{29}{subsubsection.2.1.3.1}
 \contentsline {subsection}{\numberline {2.1.4}Carga Eletr\IeC {\^o}nica}{30}{subsection.2.1.4}
 \contentsline {subsubsection}{\numberline {2.1.4.1}MOSFET}{30}{subsubsection.2.1.4.1}
