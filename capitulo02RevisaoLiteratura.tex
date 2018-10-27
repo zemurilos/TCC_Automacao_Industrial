@@ -163,7 +163,7 @@ Arduino, plataforma \textit{open-source}, baseada em fácil prototipagem eletrô
 	%1 = 100% do tamanho original
 	%0.20 = 20% do tamanho original
 	\includegraphics[scale=0.7]{imagens/Uno}
-	\caption{Exemplos de Arduinos Uno. Fonte:  \url{https://www.arduino.cc/en/Guide/ArduinoUno}. }
+	\caption{Exemplos de Arduinos Uno. Fonte: arduino.cc . }
 	
 	\label{fig:ArduinoUno}
 \end{figure}
@@ -195,7 +195,7 @@ Na Tabela 2 São Listadas as principais características encontradas no hardware
 		Peso                            & 25 g               \\ \hline
 	\end{tabular}
 	\\ \vspace{0.2cm}
-	\textbf{Fonte:} Adaptado de \url{https://store.arduino.cc/usa/arduino-uno-rev3} .
+	\textbf{Fonte: Adaptado de Arduino.cc} .
 	\label{tab:ArduinoUno}
 \end{table}
 \FloatBarrier
@@ -204,7 +204,73 @@ Conforma mostrado na tabela~\ref{tab:ArduinoUno}, o Arduino Uno possui 6 entrada
 
 \subsubsection{PWM}
 
-PWM, ou \textit{Pulse Width Modulation}, ou ainda Modulação por Largura de Pulso, através da variação da largura de pulso ...
+O PWM, \textit{Pulse Width Modulation}, ou Modulação por Largura de Pulso, é uma técnica utilizada em circuitos eletrônicos para o controle de potências de cargas, fontes chaveadas, cargas eletrônicas, entre outras aplicações. Seu princípio de funcionamento baseia-se no controle do tempo em que se mantém uma onda quadrada em um nível lógico alto mantendo a mesma frequência.
+Fazendo uma analogia, o PWM tem seu funcionamento semelhante ao de uma chave, no qual oscila seu estado em uma frequência pré estabelecida, desta maneira, tem-se o controle do tempo em que o circuito fica com seu valor máximo de tensão e o momento em que a tensão é zero. 
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/PWM1}
+	\caption{ }%ADICIONAR DATASHEET COM OS DADOS DO ARDUINO.
+	
+	\label{fig:PWM1}
+\end{figure}
+\FloatBarrier
+
+Quando a chave está aberta, tensão em cima da carga é nula, ao se fechar o interruptor, tem-se o valor máximo da tensão sobre a carga. Se alternarmos rapidamente o estado da chave em 50 por cento do tempo aberta e 50 por cento fechado , o circuito terá a metade do tempo com corrente e metade do tempo sem corrente, tendo assim uma potência média de 50 por cento.
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/PWM2}
+	\caption{ }%ADICIONAR DATASHEET COM OS DADOS DO ARDUINO.
+	
+	\label{fig:PWM2}
+\end{figure}
+\FloatBarrier
+
+Para variar a potência do circuito, basta controlar o tempo em que o interruptor fica em seu nível lógico alto, ou também chamado de Ciclo Ativo.
+
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/PWM3}
+	\caption{ }%ADICIONAR DATASHEET COM OS DADOS DO ARDUINO.
+	
+	\label{fig:PWM3}
+\end{figure}
+\FloatBarrier
+
+
+Na prática, substitui-se o interruptor por um dispositivo de estado sólido que possa ser aberto ou fechado rapidamente, um transistor bipolar ou um FET de potência, por exemplo. A este dispositivo, integra-se um circuito oscilador que possa ter seus ciclos ativos controlado numa grande faixa de valor.
+Na figura temos um exemplo de um circuito que faz o controle do PWM.
+
+\FloatBarrier
+\begin{figure}[!htbp]
+	\centering
+	%scale redimensiona a figura.
+	%1.5 = 150% do tamanho original
+	%1 = 100% do tamanho original
+	%0.20 = 20% do tamanho original
+	\includegraphics[scale=0.7]{imagens/PWM4}
+	\caption{ }%ADICIONAR DATASHEET COM OS DADOS DO ARDUINO.
+	
+	\label{fig:PWM4}
+\end{figure}
+\FloatBarrier
 
 \subsubsection{ADC}
 
