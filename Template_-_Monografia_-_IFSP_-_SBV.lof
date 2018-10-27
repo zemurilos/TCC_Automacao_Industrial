@@ -8,8 +8,12 @@
 \contentsline {figure}{\numberline {6}{\ignorespaces Curva caracter\IeC {\'\i }stica I-V de pain\IeC {\'e}is fotovoltaicos sobre influ\IeC {\^e}ncia de neve, a qual foi removida no dia 01/01. Fonte: \citeauthoronline {SCHILL2015259} (\citeyear {SCHILL2015259}). \relax }}{24}{figure.caption.17}
 \contentsline {figure}{\numberline {7}{\ignorespaces Curva caracter\IeC {\'\i }stica I-V de pain\IeC {\'e}is fotovoltaicos sobre diferentes temperaturas. Fonte: \citeauthoronline {martin2017temperature} (\citeyear {martin2017temperature}). \relax }}{24}{figure.caption.18}
 \contentsline {figure}{\numberline {8}{\ignorespaces Uso de MOSFET como carga eletr\IeC {\^o}nica para uso em pain\IeC {\'e}is fotovoltaicos. Fonte: \citeauthoronline {WILLOUGHBY2018171} (\citeyear {WILLOUGHBY2018171}). \relax }}{25}{figure.caption.19}
-\contentsline {figure}{\numberline {9}{\ignorespaces Exemplos de Arduinos Uno. Fonte: \url {https://www.arduino.cc/en/Guide/ArduinoUno}. \relax }}{26}{figure.caption.20}
-\contentsline {figure}{\numberline {10}{\ignorespaces Diagrama de blocos. Fonte: Datasheet do fabricante. \relax }}{28}{figure.caption.22}
-\contentsline {figure}{\numberline {11}{\ignorespaces Exemplo de comunica\IeC {\c c}\IeC {\~a}o utilizando o protocolo I2C. Fonte: \cite {semiconductors2000i2c}. \relax }}{29}{figure.caption.23}
-\contentsline {figure}{\numberline {12}{\ignorespaces Modelos de Cart\IeC {\~a}o SD. Fonte: SD Association. \relax }}{29}{figure.caption.24}
-\contentsline {figure}{\numberline {13}{\ignorespaces Exemplo comunica\IeC {\c c}\IeC {\~a}o SPI. \relax }}{30}{figure.caption.25}
+\contentsline {figure}{\numberline {9}{\ignorespaces Exemplos de Arduinos Uno. Fonte: arduino.cc . \relax }}{26}{figure.caption.20}
+\contentsline {figure}{\numberline {10}{\ignorespaces \relax }}{27}{figure.caption.22}
+\contentsline {figure}{\numberline {11}{\ignorespaces \relax }}{27}{figure.caption.23}
+\contentsline {figure}{\numberline {12}{\ignorespaces \relax }}{28}{figure.caption.24}
+\contentsline {figure}{\numberline {13}{\ignorespaces \relax }}{28}{figure.caption.25}
+\contentsline {figure}{\numberline {14}{\ignorespaces Diagrama de blocos. Fonte: Datasheet do fabricante. \relax }}{29}{figure.caption.26}
+\contentsline {figure}{\numberline {15}{\ignorespaces Exemplo de comunica\IeC {\c c}\IeC {\~a}o utilizando o protocolo I2C. Fonte: \cite {semiconductors2000i2c}. \relax }}{30}{figure.caption.27}
+\contentsline {figure}{\numberline {16}{\ignorespaces Modelos de Cart\IeC {\~a}o SD. Fonte: SD Association. \relax }}{31}{figure.caption.28}
+\contentsline {figure}{\numberline {17}{\ignorespaces Exemplo comunica\IeC {\c c}\IeC {\~a}o SPI. \relax }}{32}{figure.caption.29}
