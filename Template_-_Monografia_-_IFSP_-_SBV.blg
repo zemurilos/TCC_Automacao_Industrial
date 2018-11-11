@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Template_-_Monografia
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: referencias.bib
-Warning--I didn't find a database entry for "abnt-emphasize"
 Warning--I didn't find a database entry for "Agaisse1995"
 Warning--I didn't find a database entry for "Abedi2014"
 Warning--I didn't find a database entry for "BtNomenclature2016"
@@ -13,4 +12,4 @@ Warning--I didn't find a database entry for "AgapitoTenfen2014"
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There were 6 warnings)
+(There were 5 warnings)

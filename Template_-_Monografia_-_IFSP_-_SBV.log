@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  27 OCT 2018 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  11 NOV 2018 13:28
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -1609,170 +1609,171 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]) (pre09Abstract.tex [9
 
 ])
-(Template_-_Monografia_-_IFSP_-_SBV.lof
+(Template_-_Monografia_-_IFSP_-_SBV.lof [10
 
-LaTeX Warning: Citation `semiconductors2000i2c' on page 10 undefined on input l
-ine 17.
-
-) [10
-
-] (Template_-_Monografia_-_IFSP_-_SBV.lot) [11
+]) [11]
+(Template_-_Monografia_-_IFSP_-_SBV.lot) [12
 
 ]
-(Template_-_Monografia_-_IFSP_-_SBV.loq) [12
+(Template_-_Monografia_-_IFSP_-_SBV.loq) [13
 
-] (pre10ListaSiglas.tex [13
+] (pre10ListaSiglas.tex [14
 
 
 ])
-(pre11ListaSimbolos.tex [14
+(pre11ListaSimbolos.tex [15
 
 
-]) (Template_-_Monografia_-_IFSP_-_SBV.toc [15
+]) (Template_-_Monografia_-_IFSP_-_SBV.toc [16
 
 ])
-[16] (capitulo01Introducao.tex [17
+[17] (capitulo01Introducao.tex [18
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 24.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 24.
 )
-(capitulo02RevisaoLiteratura.tex [18]
-<imagens/Temp_IPCC.jpg, id=253, 445.9059pt x 176.3388pt>
+(capitulo02RevisaoLiteratura.tex [19]
+<imagens/Temp_IPCC.jpg, id=298, 445.9059pt x 176.3388pt>
 File: imagens/Temp_IPCC.jpg Graphic file (type jpg)
 <use imagens/Temp_IPCC.jpg>
 Package pdftex.def Info: imagens/Temp_IPCC.jpg  used on input line 12.
 (pdftex.def)             Requested size: 445.90482pt x 176.33836pt.
-<imagens/wind_solar.jpg, id=257, 228.855pt x 174.4116pt>
+<imagens/wind_solar.jpg, id=302, 228.855pt x 174.4116pt>
 File: imagens/wind_solar.jpg Graphic file (type jpg)
 <use imagens/wind_solar.jpg>
 Package pdftex.def Info: imagens/wind_solar.jpg  used on input line 29.
 (pdftex.def)             Requested size: 343.28165pt x 261.61676pt.
- [19
+ [20
 
  <./imagens/Temp_IPCC.jpg>]
-<imagens/FontesEnergia.png, id=272, 694.2738pt x 365.4453pt>
+<imagens/FontesEnergia.png, id=316, 694.2738pt x 365.4453pt>
 File: imagens/FontesEnergia.png Graphic file (type png)
 <use imagens/FontesEnergia.png>
 Package pdftex.def Info: imagens/FontesEnergia.png  used on input line 47.
 (pdftex.def)             Requested size: 347.13605pt x 182.7222pt.
- [20 <./imagens/wind_solar.jpg> <./imagens/FontesEnergia.png
+ [21 <./imagens/wind_solar.jpg> <./imagens/FontesEnergia.png
 
 pdfTeX warning: pdflatex.exe (file ./imagens/FontesEnergia.png): large interlac
 ed PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<imagens/IV_Gao.png, id=292, 279.6849pt x 200.9106pt>
+<imagens/IV_Gao.png, id=336, 279.6849pt x 200.9106pt>
 File: imagens/IV_Gao.png Graphic file (type png)
 <use imagens/IV_Gao.png>
 Package pdftex.def Info: imagens/IV_Gao.png  used on input line 65.
 (pdftex.def)             Requested size: 363.59033pt x 261.18373pt.
- [21 <./imagens/IV_Gao.png>] [22]
-<imagens/Temp_BRESSAN.jpg, id=316, 319.86702pt x 141.79375pt>
+ [22 <./imagens/IV_Gao.png>] [23]
+<imagens/Temp_BRESSAN.jpg, id=358, 319.86702pt x 141.79375pt>
 File: imagens/Temp_BRESSAN.jpg Graphic file (type jpg)
 <use imagens/Temp_BRESSAN.jpg>
 Package pdftex.def Info: imagens/Temp_BRESSAN.jpg  used on input line 96.
 (pdftex.def)             Requested size: 415.82706pt x 184.33182pt.
-<imagens/IxV_schill.jpg, id=324, 205.82497pt x 164.48653pt>
+<imagens/CurvaIV.png, id=366, 1174.3875pt x 437.38406pt>
+File: imagens/CurvaIV.png Graphic file (type png)
+<use imagens/CurvaIV.png>
+Package pdftex.def Info: imagens/CurvaIV.png  used on input line 112.
+(pdftex.def)             Requested size: 469.74669pt x 174.95052pt.
+
+Overfull \hbox (14.74669pt too wide) in paragraph at lines 112--113
+ [][] 
+ []
+
+[24 <./imagens/Temp_BRESSAN.jpg>]
+<imagens/IxV_schill.jpg, id=378, 205.82497pt x 164.48653pt>
 File: imagens/IxV_schill.jpg Graphic file (type jpg)
 <use imagens/IxV_schill.jpg>
-Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 112.
-(pdftex.def)             Requested size: 308.73666pt x 246.72917pt.
- [23 <./imagens/Temp_BRESSAN.jpg>]
-<imagens/IxV_Temp.jpg, id=336, 810.77907pt x 599.99156pt>
+Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 129.
+(pdftex.def)             Requested size: 257.28055pt x 205.60764pt.
+ [25 <./imagens/CurvaIV.png> <./imagens/IxV_schill.jpg>]
+<imagens/IxV_Temp.jpg, id=391, 810.77907pt x 599.99156pt>
 File: imagens/IxV_Temp.jpg Graphic file (type jpg)
 <use imagens/IxV_Temp.jpg>
-Package pdftex.def Info: imagens/IxV_Temp.jpg  used on input line 128.
+Package pdftex.def Info: imagens/IxV_Temp.jpg  used on input line 146.
 (pdftex.def)             Requested size: 243.2356pt x 179.99886pt.
- [24 <./imagens/IxV_schill.jpg> <./imagens/IxV_Temp.jpg>]
-<imagens/MOSFET_LOAD.jpg, id=353, 239.9364pt x 178.266pt>
+<imagens/MOSFET_LOAD.jpg, id=403, 239.9364pt x 178.266pt>
 File: imagens/MOSFET_LOAD.jpg Graphic file (type jpg)
 <use imagens/MOSFET_LOAD.jpg>
-Package pdftex.def Info: imagens/MOSFET_LOAD.jpg  used on input line 144.
+Package pdftex.def Info: imagens/MOSFET_LOAD.jpg  used on input line 162.
 (pdftex.def)             Requested size: 239.9358pt x 178.26555pt.
-<imagens/Uno.png, id=358, 575.90157pt x 380.17032pt>
+ [26 <./imagens/IxV_Temp.jpg> <./imagens/MOSFET_LOAD.jpg>]
+<imagens/Uno.png, id=413, 575.90157pt x 380.17032pt>
 File: imagens/Uno.png Graphic file (type png)
 <use imagens/Uno.png>
-Package pdftex.def Info: imagens/Uno.png  used on input line 165.
+Package pdftex.def Info: imagens/Uno.png  used on input line 183.
 (pdftex.def)             Requested size: 403.12834pt x 266.1174pt.
- [25 <./imagens/MOSFET_LOAD.jpg>] [26 <./imagens/Uno.png>]
-<imagens/PWM1.jpg, id=370, 521.95pt x 168.63pt>
+ [27 <./imagens/Uno.png>]
+<imagens/PWM1.jpg, id=420, 521.95pt x 168.63pt>
 File: imagens/PWM1.jpg Graphic file (type jpg)
 <use imagens/PWM1.jpg>
-Package pdftex.def Info: imagens/PWM1.jpg  used on input line 217.
+Package pdftex.def Info: imagens/PWM1.jpg  used on input line 235.
 (pdftex.def)             Requested size: 365.3625pt x 118.04018pt.
-<imagens/PWM2.jpg, id=371, 521.95pt x 204.765pt>
+ [28 <./imagens/PWM1.jpg>]
+<imagens/PWM2.jpg, id=429, 521.95pt x 204.765pt>
 File: imagens/PWM2.jpg Graphic file (type jpg)
 <use imagens/PWM2.jpg>
-Package pdftex.def Info: imagens/PWM2.jpg  used on input line 233.
+Package pdftex.def Info: imagens/PWM2.jpg  used on input line 251.
 (pdftex.def)             Requested size: 365.3625pt x 143.3345pt.
-<imagens/PWM3.jpg, id=372, 521.95pt x 317.185pt>
+<imagens/PWM3.jpg, id=433, 521.95pt x 317.185pt>
 File: imagens/PWM3.jpg Graphic file (type jpg)
 <use imagens/PWM3.jpg>
-Package pdftex.def Info: imagens/PWM3.jpg  used on input line 250.
+Package pdftex.def Info: imagens/PWM3.jpg  used on input line 268.
 (pdftex.def)             Requested size: 365.3625pt x 222.02797pt.
- [27 <./imagens/PWM1.jpg> <./imagens/PWM2.jpg>]
-<imagens/PWM4.jpg, id=377, 521.95pt x 257.96375pt>
+
+Underfull \hbox (badness 5592) in paragraph at lines 269--269
+[][]|\T1/lmr/m/n/12 (+20) Di-fe-ren-tes tem-pos de ten-são alta para di-fe-ren-
+tes va-lo-res mé-dios
+ []
+
+<imagens/PWM4.jpg, id=437, 521.95pt x 257.96375pt>
 File: imagens/PWM4.jpg Graphic file (type jpg)
 <use imagens/PWM4.jpg>
-Package pdftex.def Info: imagens/PWM4.jpg  used on input line 268.
+Package pdftex.def Info: imagens/PWM4.jpg  used on input line 286.
 (pdftex.def)             Requested size: 365.3625pt x 180.57338pt.
-
-[28 <./imagens/PWM3.jpg> <./imagens/PWM4.jpg>]
-<imagens/ADS.png, id=382, 567.5604pt x 283.7802pt>
+[29 <./imagens/PWM2.jpg> <./imagens/PWM3.jpg>]
+<imagens/ADS.png, id=447, 567.5604pt x 283.7802pt>
 File: imagens/ADS.png Graphic file (type png)
 <use imagens/ADS.png>
-Package pdftex.def Info: imagens/ADS.png  used on input line 295.
+Package pdftex.def Info: imagens/ADS.png  used on input line 313.
 (pdftex.def)             Requested size: 397.28957pt x 198.64478pt.
-
-
-LaTeX Warning: Citation `semiconductors2000i2c' on page 29 undefined on input l
-ine 306.
-
-[29 <./imagens/ADS.png>]
-<imagens/I2C.jpg, id=388, 620.3175pt x 185.94469pt>
+ [30 <./imagens/PWM4.jpg>]
+<imagens/I2C.jpg, id=458, 620.3175pt x 185.94469pt>
 File: imagens/I2C.jpg Graphic file (type jpg)
 <use imagens/I2C.jpg>
-Package pdftex.def Info: imagens/I2C.jpg  used on input line 319.
+Package pdftex.def Info: imagens/I2C.jpg  used on input line 337.
 (pdftex.def)             Requested size: 434.2193pt x 130.16037pt.
 
-
-LaTeX Warning: Citation `semiconductors2000i2c' on page 30 undefined on input l
-ine 320.
-
-
-LaTeX Warning: Citation `semiconductors2000i2c' on page 30 undefined on input l
-ine 320.
-
-<imagens/SDCARD.png, id=390, 494.59781pt x 182.93344pt>
+[31 <./imagens/ADS.png>]
+<imagens/SDCARD.png, id=469, 494.59781pt x 182.93344pt>
 File: imagens/SDCARD.png Graphic file (type png)
 <use imagens/SDCARD.png>
-Package pdftex.def Info: imagens/SDCARD.png  used on input line 337.
+Package pdftex.def Info: imagens/SDCARD.png  used on input line 355.
 (pdftex.def)             Requested size: 346.2161pt x 128.05252pt.
-[30 <./imagens/I2C.jpg>]
-<imagens/SPI.png, id=395, 602.25pt x 363.60844pt>
+ [32 <./imagens/I2C.jpg> <./imagens/SDCARD.png>]
+<imagens/SPI.png, id=475, 602.25pt x 363.60844pt>
 File: imagens/SPI.png Graphic file (type png)
 <use imagens/SPI.png>
-Package pdftex.def Info: imagens/SPI.png  used on input line 364.
+Package pdftex.def Info: imagens/SPI.png  used on input line 382.
 (pdftex.def)             Requested size: 421.57211pt x 254.52417pt.
- [31 <./imagens/SDCARD.png>]
-<imagens/exemploQuadro.png, id=404, 465.74pt x 243.91125pt>
+
+[33 <./imagens/SPI.png>]
+<imagens/exemploQuadro.png, id=483, 465.74pt x 243.91125pt>
 File: imagens/exemploQuadro.png Graphic file (type png)
 <use imagens/exemploQuadro.png>
-Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 409.
+Package pdftex.def Info: imagens/exemploQuadro.png  used on input line 427.
 (pdftex.def)             Requested size: 326.01578pt x 170.7367pt.
- [32 <./imagens/SPI.png>]
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 426.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 426.
+nput line 444.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 444.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
@@ -1783,58 +1784,67 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(fontes/ClasseExemplo.java) [33 <./imagens/exemploQuadro.png>] [34]
+(fontes/ClasseExemplo.java) [34 <./imagens/exemploQuadro.png>] [35]
 
-LaTeX Warning: Citation `Agaisse1995' on page 35 undefined on input line 488.
-
-
-LaTeX Warning: Citation `Abedi2014' on page 35 undefined on input line 489.
+LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 506.
 
 
-LaTeX Warning: Citation `BtNomenclature2016' on page 35 undefined on input line
- 490.
+LaTeX Warning: Citation `Abedi2014' on page 36 undefined on input line 507.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 35 undefined on input line 494.
+LaTeX Warning: Citation `BtNomenclature2016' on page 36 undefined on input line
+ 508.
 
 
-LaTeX Warning: Citation `Abedi2014' on page 35 undefined on input line 494.
+LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 512.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 35 undefined on input line 495.
+LaTeX Warning: Citation `Abedi2014' on page 36 undefined on input line 512.
 
 
-LaTeX Warning: Citation `BtNomenclature2016' on page 35 undefined on input line
- 495.
+LaTeX Warning: Citation `Nelson2014' on page 36 undefined on input line 513.
 
 
-LaTeX Warning: Citation `AgapitoTenfen2014' on page 35 undefined on input line 
-495.
+LaTeX Warning: Citation `BtNomenclature2016' on page 36 undefined on input line
+ 513.
 
 
-LaTeX Warning: Citation `Nelson2014' on page 35 undefined on input line 509.
+LaTeX Warning: Citation `AgapitoTenfen2014' on page 36 undefined on input line 
+513.
 
 
-LaTeX Warning: Citation `Agaisse1995' on page 35 undefined on input line 515.
+LaTeX Warning: Citation `Nelson2014' on page 36 undefined on input line 527.
 
-) (capitulo03Metodologia.tex [35]) (capitulo04ResultadosDiscussao.tex [36
 
-])
-(capitulo05Conclusoes.tex [37
+LaTeX Warning: Citation `Agaisse1995' on page 36 undefined on input line 533.
+
+[36]) (capitulo03Metodologia.tex [37] [38
+
+]
+
+LaTeX Warning: Reference `label' on page 39 undefined on input line 41.
+
+<imagens/Precisao.png, id=545, 667.74469pt x 398.23781pt>
+File: imagens/Precisao.png Graphic file (type png)
+<use imagens/Precisao.png>
+Package pdftex.def Info: imagens/Precisao.png  used on input line 60.
+(pdftex.def)             Requested size: 400.6499pt x 238.94452pt.
+[39] [40 <./imagens/Precisao.png>]) (capitulo04ResultadosDiscussao.tex [41])
+(capitulo05Conclusoes.tex [42
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
 []\T1/lmss/m/n/24.88 CONCLUSÕES/CONCLUSÕES PAR-CI-
  []
 
-) (capitulo06Cronograma.tex [38
+) (capitulo06Cronograma.tex [43
 
 ]) (Template_-_Monografia_-_IFSP_-_SBV.bbl
 (Template_-_Monografia_-_IFSP_-_SBV.brf)
 \tf@brf=\write7
 \openout7 = `Template_-_Monografia_-_IFSP_-_SBV.brf'.
 
- [39
+ [44
 
 ]
 
@@ -1842,33 +1852,33 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-) (pos01Apendices.tex [40
+[45
+
+]) (pos01Apendices.tex [46]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 10.
+
+[47
+
+
+] [48
+
+]) (pos02Anexos.tex [49
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[41
+[50
 
 
-] [42
-
-]) (pos02Anexos.tex [43
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 10.
-
-[44
-
-
-] [45
+] [51
 
 ]) 
 AED: lastpage setting LastPage
-[46
+[52
 
 ]
 \tf@lof=\write8
@@ -1891,7 +1901,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 462.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 462.
 Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: 6AF5C755C461927813A7A7F1AAFA1F18;4196.
+(rerunfilecheck)             Checksum: 807EA3E3E8C0E21CB687138920DEA6B3;4665.
 
 
 LaTeX Warning: There were undefined references.
@@ -1902,13 +1912,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 462.
  ) 
 Here is how much of TeX's memory you used:
- 33653 strings out of 492973
- 586135 string characters out of 3135921
- 914953 words of memory out of 3000000
- 36545 multiletter control sequences out of 15000+200000
- 125496 words of font info for 179 fonts, out of 3000000 for 9000
+ 33695 strings out of 492973
+ 588787 string characters out of 3135921
+ 922591 words of memory out of 3000000
+ 36572 multiletter control sequences out of 15000+200000
+ 125367 words of font info for 178 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,67p,1095b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,12n,67p,1088b,1234s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/d
 vips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex
@@ -1930,10 +1940,10 @@ mss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/lm/lmtt12.pfb>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (46 pages, 4115764 byt
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (52 pages, 4256924 byt
 es).
 PDF statistics:
- 776 PDF objects out of 1000 (max. 8388607)
- 159 named destinations out of 1000 (max. 500000)
- 42943 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 894 PDF objects out of 1000 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 42985 words of extra memory for PDF output out of 42996 (max. 10000000)
 
