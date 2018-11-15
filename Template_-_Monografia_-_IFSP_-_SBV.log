@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  11 NOV 2018 13:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  15 NOV 2018 15:07
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -1896,13 +1896,22 @@ AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 462.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 462.
  (Template_-_Monografia_-_IFSP_-_SBV.xwm)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 462.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 462.
-Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
-not changed.
-(rerunfilecheck)             Checksum: 807EA3E3E8C0E21CB687138920DEA6B3;4665.
 
+
+Package rerunfilecheck Warning: File `Template_-_Monografia_-_IFSP_-_SBV.brf' h
+as changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `Template_-_Monografia_-_IFSP_-_SBV.
+brf':
+(rerunfilecheck)             Before: F060EBAC5DF968D4D6F8368CF0D9391D;4665
+(rerunfilecheck)             After:  807EA3E3E8C0E21CB687138920DEA6B3;4665.
 
 LaTeX Warning: There were undefined references.
 
@@ -1914,7 +1923,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 462.
 Here is how much of TeX's memory you used:
  33695 strings out of 492973
  588787 string characters out of 3135921
- 922591 words of memory out of 3000000
+ 922791 words of memory out of 3000000
  36572 multiletter control sequences out of 15000+200000
  125367 words of font info for 178 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1940,7 +1949,7 @@ mss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/lm/lmtt12.pfb>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (52 pages, 4256924 byt
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (52 pages, 4258381 byt
 es).
 PDF statistics:
  894 PDF objects out of 1000 (max. 8388607)
