@@ -180,4 +180,12 @@
   pages   = {82--90},
 }
 
+@Book{sistemas2006,
+  title     = {{SISTEMAS EMBARCADOS} {H}ardware e {F}irmware na {P}rática},
+  publisher = {Editora Érica},
+  year      = {2006},
+  author    = {de Oliveira, André Schneider and de Andrade, Fernando Souza},
+  editor    = {Editora Érica Ltda},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
