@@ -2,14 +2,13 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Template_-_Monografia
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: referencias.bib
-Warning--I didn't find a database entry for "Agaisse1995"
-Warning--I didn't find a database entry for "Abedi2014"
-Warning--I didn't find a database entry for "BtNomenclature2016"
-Warning--I didn't find a database entry for "Nelson2014"
-Warning--I didn't find a database entry for "AgapitoTenfen2014"
+Warning--entry type for "ART2885" isn't style-file defined
+--line 199 of file referencias.bib
+Warning--entry type for "ART977" isn't style-file defined
+--line 215 of file referencias.bib
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There were 5 warnings)
+(There were 2 warnings)
