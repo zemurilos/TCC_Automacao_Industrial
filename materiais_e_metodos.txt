@@ -1,0 +1,21 @@
+Materiais e Metodos
+
+Para a prototipagem do traçador I-V houve a necessidade de utilizar as seguintes etapas:
+Integração entre os componentes do prototipo, sendo eles arduino, carga eletronica, painel solar, sensor ads1115 e cartão SD.
+
+Arduino:
+A plataforma Arduino foi utilizado de maneira centralizar o controle de todos os perifericos necessários para a protipagem. Foi utilizado as saidas PWM, Barramento I2C e SPI.
+
+Imagem ARduino+I2C+SPI
+
+Carga Eletronica:
+A carga eletronica permitiu a variação entres valores de Corrente e Tensão, fator extremamente importante para o traçador.
+
+Imagem Carga eletronica
+
+
+
+Metodos
+Durante os experimentos foram necessários fixar alguns aspectos:
+Irradiancia Solar
+Sensores precisos

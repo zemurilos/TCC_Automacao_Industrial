@@ -11,6 +11,20 @@
   maximum power point tracking. In:  IEEE. \textbf{Power Electronics Conference
   (SPEC), IEEE Annual Southern}. [S.l.], 2016. p.~1--6.}
 
+\bibitem[Braga 2008]{ART2885}
+\abntrefinfo{Braga}{BRAGA}{2008}
+{BRAGA, N.~C. \textbf{Carga eletrônica}. 2008.
+[Online; Stand 01. November 2018].
+Dispon{\'\i}vel em:
+  \url{http://www.newtoncbraga.com.br/index.php/robotica/5169-mec071a}.}
+
+\bibitem[Braga 2016]{ART977}
+\abntrefinfo{Braga}{BRAGA}{2016}
+{BRAGA, N.~C. \textbf{Como funciona o {MOSFET}}. 2016.
+[Online; Stand 01. November 2018].
+Dispon{\'\i}vel em:
+  \url{http://www.newtoncbraga.com.br/index.php/robotica/5169-mec071a}.}
+
 \bibitem[Bressan et al. 2016]{BRESSAN20161181}
 \abntrefinfo{Bressan et al.}{BRESSAN et al.}{2016}
 {BRESSAN, M. et al. A shadow fault detection method based on the standard error
@@ -26,6 +40,11 @@ Dispon{\'\i}vel em:
   the need for energy without co2 emission.
 \textbf{Science}, American Association for the Advancement of Science, v.~299,
   n.~5615, p. 2052--2054, 2003.}
+
+\bibitem[Capuano 2018]{capuano2018elementos}
+\abntrefinfo{Capuano}{CAPUANO}{2018}
+{CAPUANO, F.~G. \textbf{Elementos de eletr{\^o}nica digital}. [S.l.]: Editora
+  Saraiva, 2018.}
 
 \bibitem[Gao et al. 2018]{GAO201852}
 \abntrefinfo{Gao et al.}{GAO et al.}{2018}

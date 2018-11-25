@@ -14,6 +14,14 @@
 \backcite {WILLOUGHBY2018171}{{10}{(document)}{Doc-Start}}
 \backcite {WILLOUGHBY2018171}{{10}{(document)}{Doc-Start}}
 \backcite {semiconductors2000i2c}{{10}{(document)}{Doc-Start}}
+\backcite {ART977}{{11}{(document)}{Doc-Start}}
+\backcite {ART977}{{11}{(document)}{Doc-Start}}
+\backcite {ART977}{{11}{(document)}{Doc-Start}}
+\backcite {ART977}{{11}{(document)}{Doc-Start}}
+\backcite {ART977}{{11}{(document)}{Doc-Start}}
+\backcite {ART977}{{11}{(document)}{Doc-Start}}
+\backcite {ART2885}{{11}{(document)}{Doc-Start}}
+\backcite {ART2885}{{11}{(document)}{Doc-Start}}
 \backcite {caldeira2003climate}{{20}{2}{chapter.2}}
 \backcite {caldeira2003climate}{{20}{2}{chapter.2}}
 \backcite {weitemeyer2015integration}{{20}{2}{figure.caption.12}}
@@ -64,13 +72,17 @@
 \backcite {semiconductors2000i2c}{{31}{2.1.2.1}{subsubsection.2.1.2.1}}
 \backcite {semiconductors2000i2c}{{31}{2.1.2.1}{subsubsection.2.1.2.1}}
 \backcite {semiconductors2000i2c}{{32}{16}{figure.caption.28}}
-\backcite {Agaisse1995}{{36}{2.1.4.1}{Item.7}}
-\backcite {Abedi2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {BtNomenclature2016}{{36}{2.1.4.1}{Item.7}}
-\backcite {Agaisse1995, Abedi2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {Agaisse1995, Abedi2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {Nelson2014, BtNomenclature2016, AgapitoTenfen2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {Nelson2014}{{36}{2.1.4.1}{Item.7}}
-\backcite {Agaisse1995}{{37}{2.1.4.1}{Item.7}}
+\backcite {ART977}{{33}{2.1.4.1}{subsubsection.2.1.4.1}}
+\backcite {ART977}{{34}{19}{figure.caption.31}}
+\backcite {ART977}{{34}{19}{figure.caption.31}}
+\backcite {ART977}{{34}{20}{figure.caption.32}}
+\backcite {ART977}{{34}{20}{figure.caption.32}}
+\backcite {ART977}{{34}{2.1.4.1}{figure.caption.32}}
+\backcite {ART977}{{34}{2.1.4.1}{figure.caption.32}}
+\backcite {ART977}{{35}{21}{figure.caption.33}}
+\backcite {ART977}{{35}{21}{figure.caption.33}}
+\backcite {capuano2018elementos}{{35}{2.1.4.2}{subsubsection.2.1.4.2}}
+\backcite {capuano2018elementos}{{35}{2.1.4.2}{subsubsection.2.1.4.2}}
+\backcite {ART2885}{{35}{2.1.4.2}{subsubsection.2.1.4.2}}
+\backcite {ART2885}{{35}{22}{figure.caption.34}}
+\backcite {ART2885}{{35}{22}{figure.caption.34}}
