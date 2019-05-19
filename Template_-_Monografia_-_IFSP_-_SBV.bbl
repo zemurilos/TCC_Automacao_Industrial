@@ -55,6 +55,11 @@ ISSN 0038-092X.
 Dispon{\'\i}vel em:
   \url{http://www.sciencedirect.com/science/article/pii/S0038092X18303141}.}
 
+\bibitem[Leens 2009]{Leens2009AnIT}
+\abntrefinfo{Leens}{LEENS}{2009}
+{LEENS, F. An introduction to i2c and spi protocols.
+\textbf{IEEE Instrumentation \& Measurement Magazine}, v.~12, p. 8--13, 2009.}
+
 \bibitem[Li et al. 2017]{li2017reduction}
 \abntrefinfo{Li et al.}{LI et al.}{2017}
 {LI, X. et al. Reduction of solar photovoltaic resources due to air pollution

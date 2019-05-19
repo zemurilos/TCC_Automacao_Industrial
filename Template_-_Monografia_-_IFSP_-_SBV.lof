@@ -17,9 +17,17 @@
 \contentsline {figure}{\numberline {15}{\ignorespaces Diagrama de blocos. Fonte: Datasheet do fabricante(Texas Instruments). \relax }}{31}{figure.caption.27}
 \contentsline {figure}{\numberline {16}{\ignorespaces Exemplo de comunica\IeC {\c c}\IeC {\~a}o utilizando o protocolo I2C. Fonte: \cite {semiconductors2000i2c}. \relax }}{32}{figure.caption.28}
 \contentsline {figure}{\numberline {17}{\ignorespaces Modelos de Cart\IeC {\~a}o SD. Fonte: SD Association. \relax }}{32}{figure.caption.29}
-\contentsline {figure}{\numberline {18}{\ignorespaces Exemplo comunica\IeC {\c c}\IeC {\~a}o SPI. \relax }}{33}{figure.caption.30}
+\contentsline {figure}{\numberline {18}{\ignorespaces Exemplo comunica\IeC {\c c}\IeC {\~a}o SPI. Fonte: \citeauthoronline {Leens2009AnIT} (\citeyear {Leens2009AnIT}) \relax }}{33}{figure.caption.30}
 \contentsline {figure}{\numberline {19}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o de um transistor de efeito de campo(FET). Fonte: \citeauthoronline {ART977} (\citeyear {ART977}).\relax }}{34}{figure.caption.31}
 \contentsline {figure}{\numberline {20}{\ignorespaces Exemplo simplificado de um \textit {MOSFET}. Fonte: \citeauthoronline {ART977} (\citeyear {ART977}).\relax }}{34}{figure.caption.32}
 \contentsline {figure}{\numberline {21}{\ignorespaces Acionamento de um \textit {MOSFET} e seus 3 estados:(a)chave aberta, ,(b)amplificador de corrente e (c)chave fechada. Fonte: \citeauthoronline {ART977} (\citeyear {ART977}) adaptado.\relax }}{35}{figure.caption.33}
 \contentsline {figure}{\numberline {22}{\ignorespaces Amplificador operacional no circuito de carga eletr\IeC {\^o}nica. Fonte: \citeauthoronline {ART2885} (\citeyear {ART2885}) adaptado.\relax }}{35}{figure.caption.34}
-\contentsline {figure}{\numberline {23}{\ignorespaces Diferentes valores de tens\IeC {\~a}o e compara\IeC {\c c}\IeC {\~a}o entre o sensor e um mult\IeC {\'\i }metro comercial. Fonte: Elaborado pelo Autor. \relax }}{38}{figure.caption.35}
+\contentsline {figure}{\numberline {23}{\ignorespaces Circuito eletr\IeC {\^o}nico completo. Fonte: Elaborado pelo Autor. \relax }}{37}{figure.caption.35}
+\contentsline {figure}{\numberline {24}{\ignorespaces Circuito eletr\IeC {\^o}nico, foco no componentes mais pr\IeC {\'o}ximos ao Arduino. Fonte: Elaborado pelo Autor. \relax }}{38}{figure.caption.36}
+\contentsline {figure}{\numberline {25}{\ignorespaces Circuito eletr\IeC {\^o}nico, foco nas conex\IeC {\~o}es com o m\IeC {\'o}dulo. Fonte: Elaborado pelo Autor. \relax }}{38}{figure.caption.37}
+\contentsline {figure}{\numberline {26}{\ignorespaces Circuito eletr\IeC {\^o}nico, foco na carga eletr\IeC {\^o}nica. Fonte: Elaborado pelo Autor. \relax }}{39}{figure.caption.38}
+\contentsline {figure}{\numberline {27}{\ignorespaces Circuito eletr\IeC {\^o}nico, foco no conjunto de LEDs. Fonte: Elaborado pelo Autor. \relax }}{40}{figure.caption.39}
+\contentsline {figure}{\numberline {28}{\ignorespaces 30 diferentes valores de tens\IeC {\~a}o e compara\IeC {\c c}\IeC {\~a}o entre o sensor e um mult\IeC {\'\i }metro comercial. Fonte: Elaborado pelo Autor. \relax }}{41}{figure.caption.40}
+\contentsline {figure}{\numberline {29}{\ignorespaces Curva IV deformada devido ao uso de um resistor de 5 Ohms. Fonte: Elaborado pelo Autor. \relax }}{43}{figure.caption.42}
+\contentsline {figure}{\numberline {30}{\ignorespaces Curva IV deformada devido. Fonte: Elaborado pelo Autor. \relax }}{44}{figure.caption.43}
+\contentsline {figure}{\numberline {31}{\ignorespaces Curva IV com poucos pontos. Fonte: Elaborado pelo Autor. \relax }}{44}{figure.caption.44}

@@ -1,6 +1,6 @@
 \chapter{Revisão da Literatura}
 \label{cap:02}
-Graças ao avanço da tecnologia, o uso da energia elétrica se tornou extremamente vital, causando o aumento do uso de meios de geração por combustíveis fósseis, o qual gerou grande emissão de gás carbônico. De acordo com \citeauthorandyear{caldeira2003climate}, considerando um cenário para estabilização do clima e onde a sensibilidade climática se encontra no máximo apontado pelo IPCC, \textit{Intergovernmental Panel on Climate Change}, e assumindo o IPCC IaaS92a, ao final do século XXI a maior parte da geração de energia deverá ser estritamente de fontes não emissoras de $CO_{2}$.
+Graças ao avanço da tecnologia, o uso da energia elétrica se tornou extremamente vital, causando o aumento do uso de meios de geração por combustíveis fósseis, o qual gerou grande emissão de gás carbônico. De acordo com \citeauthorandyear{caldeira2003climate}, considerando um cenário para estabilização do clima e onde a sensibilidade climática se encontra no máximo apontado pelo IPCC, \textit{Intergovernmental Panel on Climate Change}, e assumindo o IPCC IS92, ao final do século XXI a maior parte da geração de energia deverá ser estritamente de fontes não emissoras de $CO_{2}$.
 
 \FloatBarrier
 \begin{figure}[htbp]
@@ -9,7 +9,7 @@ Graças ao avanço da tecnologia, o uso da energia elétrica se tornou extremame
 	%1.5 = 150% do tamanho original
 	%1 = 100% do tamanho original
 	%0.20 = 20% do tamanho original
-	\includegraphics[scale=1.]{imagens/Temp_IPCC}
+	\includegraphics[scale=1.0]{imagens/Temp_IPCC}
 	\caption{Variação na temperatura geral da superfície da Terra durante os anos de 1986-2005 para 2081-2100. Fonte: IPCC(2003). }
 	
 	\label{fig:TempE}
@@ -117,7 +117,7 @@ Tendo em vista a presença de fatores internos e externos na geração e funcion
 \FloatBarrier
 
 
-Como apontado anteriormente , há grande importância e interesse no uso da curva I-V de sistemas fotovoltaicos, para gerenciamento, funcionamento, e verificação de erros, e assim como descreve \citeauthorandyear{SCHILL2015259} no \textit{Fraunhofer Institute for Solar Energy Systems ISE}, faz-se o uso da curva I-V para verificação da performance dos arranjos fotovoltaicos durante teste em ambientes abertos para verificação da durabilidade de materiais para o uso em sistemas fotovoltaicos. De acordo com os autores, é verificado e monitorado a curva a cada 10 minutos. O uso da curva I-V permitiu a conclusão em teste onde os painéis foram sujos, durante o teste foi verificada uma diminuição de até 20\% dos valores iniciais de eficiência, sendo possível observar a diferença entre as curvas de placas limpas e placas sobre grande influência de poeira como visto na Figura~\ref{fig:CurvaIVNeve}.
+Como apontado anteriormente , há grande importância e interesse no uso da curva I-V de sistemas fotovoltaicos, para gerenciamento, funcionamento, e verificação de erros, e assim como descreve \citeauthorandyear{SCHILL2015259} no \textit{Fraunhofer Institute for Solar Energy Systems ISE}, faz-se o uso da curva I-V para verificação da performance dos arranjos fotovoltaicos durante teste em ambientes abertos para verificação da durabilidade de materiais para o uso em sistemas fotovoltaicos. De acordo com os autores, é verificada e monitorada a curva a cada 10 minutos. O uso da curva I-V permitiu a conclusão em teste onde os painéis foram sujos, durante o teste foi verificada uma diminuição de até 20\% dos valores iniciais de eficiência, sendo possível observar a diferença entre as curvas de placas limpas e placas sobre grande influência de poeira como visto na Figura~\ref{fig:CurvaIVNeve}.
 
 \FloatBarrier
 \begin{figure}[!htbp]
@@ -255,7 +255,7 @@ Quando a chave está aberta, tensão em cima da carga é nula, ao se fechar o in
 \end{figure}
 \FloatBarrier
 
-De acordo com a Figura~\ref{fig:PWM3}, Com o intuito de variar a potência do circuito, basta controlar o tempo em que o interruptor fica em seu nível lógico alto, ou também chamado de Ciclo Ativo.
+De acordo com a Figura~\ref{fig:PWM3}, com o intuito de variar a potência do circuito, basta controlar o tempo em que o interruptor fica em seu nível lógico alto, ou também chamado de Ciclo Ativo.
 
 
 \FloatBarrier
@@ -274,7 +274,7 @@ De acordo com a Figura~\ref{fig:PWM3}, Com o intuito de variar a potência do ci
 
 
 Na prática, substitui-se o interruptor por um dispositivo de estado sólido que possa ser aberto ou fechado rapidamente, um transistor bipolar ou um FET de potência, por exemplo. A este dispositivo, integra-se um circuito oscilador que possa ter seus ciclos ativos controlado numa grande faixa de valor.
-Na figura~\ref{fig:PWM4} temos um exemplo de um circuito que faz o controle do PWM.
+Na figura~\ref{fig:PWM4} tem-se um exemplo de um circuito que faz o controle do PWM.
 
 \FloatBarrier
 \begin{figure}[!htbp]
@@ -292,17 +292,15 @@ Na figura~\ref{fig:PWM4} temos um exemplo de um circuito que faz o controle do P
 
 \subsubsection{ADC}
 
-ADC, ou \textit{Analog-to-Digital Converter}, é uma tecnologia que tem como objetivo converter sinais analógicos em sinais digitais. Sinais digitais têm como característica a continuidade em nível de sinal, podendo alternar entre dois estados: 0 para nível baixo e 1 para nível alto,caracterizando assim o funcionamento ON/OFF de sistemas digitais.
- Sinais analógicos comportam-se de maneira mutável, variando assim o seu valor em função do tempo, podendo assumir quaisquer valores entre dois extremos predeterminados. Estas características permitem a integração entre componentes digitais como computadores e meios físicos.
+ADC, ou \textit{Analog-to-Digital Converter}, é uma tecnologia que tem como objetivo converter sinais analógicos em sinais digitais. Sinais digitais têm como característica a continuidade em nível de sinal, podendo alternar entre dois estados: 0 para nível baixo e 1 para nível alto, caracterizando assim o funcionamento ON/OFF de sistemas digitais.
+ Sinais analógicos comportam-se de maneira mutável, variando assim o seu valor em função do tempo, podendo assumir quaisquer valores entre dois extremos predeterminados. Estas características permitem a integração entre componentes digitais como computadores e meios físicos \cite{capuano2018elementos}.
 
 \subsection{ADS1115}
-O módulo ADS1115 da Adafruit é um módulo ADC com resolução de 16-Bits e utiliza a comunicação I2C, o uso deste módulo foi vital para a aquisição de dados.
-
-Diferentemente dos conversores Analógico Digital integrados na placa Arduino, o módulo ADS1115 possui ótima repetibilidade e grande precisão durante a a aquisição dos valores.
+O módulo ADS1115 da Adafruit é um módulo ADC com resolução de 16-Bits e utiliza a comunicação I2C. Diferentemente dos conversores Analógico Digital integrados na placa Arduino, o módulo ADS1115 possui ótima repetibilidade e grande precisão durante a aquisição dos valores.
 
 Há ainda a possibilidade do uso de amplificadores internos através de PGA de forma a aumentar ainda mais a precisão das medidas, como visto na figura~\ref{fig:Ads}.
 
-Ao se utilizar sua resolução de 16-Bits, e ganho unitário é possível obter-se uma precisão de 0,125 $mV$, o qual ultrapassa grandemente o fundo de escala de 4,9 $mV$ do ADC proveniente do Arduino.%ADICIONAR REFERÊNCIA DE ONDE TIROU OS DADOS
+Ao se utilizar sua resolução de 16-Bits, e ganho unitário é possível obter-se uma precisão de 0,125 $mV$, o qual ultrapassa o fundo de escala de 4,9 $mV$ do ADC proveniente do Arduino.%ADICIONAR REFERÊNCIA DE ONDE TIROU OS DADOS
 \FloatBarrier
 \begin{figure}[!htbp]
 	\centering
@@ -380,7 +378,7 @@ As conexões para SPI possuem a seguinte característica:
 	%1 = 100% do tamanho original
 	%0.20 = 20% do tamanho original
 	\includegraphics[scale=0.7]{imagens/SPI}
-	\caption{Exemplo comunicação SPI. %Fonte: SD Association.}
+	\caption{Exemplo comunicação SPI. Fonte: \citeauthorandyear{Leens2009AnIT} %Fonte: SD Association.}
 	}
 	\label{fig:SPI}
 \end{figure}
@@ -441,9 +439,9 @@ Como mostra \citeauthorandyear{ART977}, para polarizar um \textit{MOSFET} e perm
 
 \subsubsection{Amplificador Operacional}
 
-De acordo com \citeauthorandyear{capuano2018elementos}, as principais características de um amplificador operacional são: 1.Tensão de saída 0 volts, quando a diferença de potencial em sua entrada for de 0 volts; 2.Altas impedâncias de entrada e saída.
+De acordo com \citeauthorandyear{capuano2018elementos}, as principais características de um amplificador operacional são: 1.Tensão de saída 0 V, quando a diferença de potencial em sua entrada for de 0 V; 2.Altas impedâncias de entrada e saída.
 
-Como demonstrado na figura~\ref{fig:CEAMP}, o amplificador operacional tem seu pino não inversor conectado a um resistor R7. Sendo este o responsável pela limitação da corrente da carga, \cite{ART2885}.
+Como mostrado na figura~\ref{fig:CEAMP}, o amplificador operacional tem seu pino não inversor conectado a um resistor R7. Sendo este o responsável pela limitação da corrente da carga, \cite{ART2885}.
 
 \FloatBarrier
 \begin{figure}[!htbp]

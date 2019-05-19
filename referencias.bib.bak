@@ -221,4 +221,13 @@
   url       = {http://www.newtoncbraga.com.br/index.php/robotica/5169-mec071a},
 }
 
+@Article{Leens2009AnIT,
+  author  = {Frederic Leens},
+  title   = {An introduction to I2C and SPI protocols},
+  journal = {IEEE Instrumentation \& Measurement Magazine},
+  year    = {2009},
+  volume  = {12},
+  pages   = {8-13},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
