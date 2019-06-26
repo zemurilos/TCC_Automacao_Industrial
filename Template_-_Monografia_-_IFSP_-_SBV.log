@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  25 NOV 2018 13:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  25 JUN 2019 21:32
 entering extended mode
 **./Template_-_Monografia_-_IFSP_-_SBV.tex
 (Template_-_Monografia_-_IFSP_-_SBV.tex
@@ -1149,9 +1149,27 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count299
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen295
+\AM@pageheight=\dimen296
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box49
+\AM@global@opts=\toks48
+\AM@toc@title=\toks49
+\c@AM@survey=\count300
+\AM@templatesizebox=\box50
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count300
+\c@lips@count=\count301
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\backref.sty"
 Package: backref 2016/05/21 v1.39 Bibliographical back referencing
@@ -1162,8 +1180,8 @@ Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
 ("C:\Program Files\MiKTeX 2.9\tex\latex\abntex2\abntex2abrev.sty")
 \minimumbiblabelwidth=\skip275
 \ABCIauxlen=\skip276
-\c@ABCIaux=\count301
-\c@ABCImax=\count302
+\c@ABCIaux=\count302
+\c@ABCImax=\count303
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\relsize\relsize.sty"
 Package: relsize 2013/03/29 ver 4.1
@@ -1171,20 +1189,20 @@ Package: relsize 2013/03/29 ver 4.1
 \biblabelsep=\skip277
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks48
+\ABCItoken=\toks50
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\xwatermark\xwatermark.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\catoptions\catoptions.sty"
-\m@one=\count303
-\z@pt=\dimen295
+\m@one=\count304
+\z@pt=\dimen297
 Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (A
 M)
-\cpt@csvdepth=\count304
-\cpt@optdepth=\count305
-\cpt@cnta=\count306
-\indrisdepth=\count307
-\cpt@foreachdepth=\count308
-\cpt@exprcnt=\count309
+\cpt@csvdepth=\count305
+\cpt@optdepth=\count306
+\cpt@cnta=\count307
+\indrisdepth=\count308
+\cpt@foreachdepth=\count309
+\cpt@exprcnt=\count310
 )
 Package: xwatermark 2012/10/23 v1.5.2d A dynamic watermarking scheme (Ahmed Mus
 a)
@@ -1290,19 +1308,19 @@ s
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxkeys\ltxkeys.sty"
 Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
 
-\ltxkeys@csvdepth=\count310
-\ltxkeys@keydepth=\count311
+\ltxkeys@csvdepth=\count311
+\ltxkeys@keydepth=\count312
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\framed\framed.sty"
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip287
-\fb@frw=\dimen296
-\fb@frh=\dimen297
+\fb@frw=\dimen298
+\fb@frh=\dimen299
 )
-\AtBeginShipoutBox=\box49
-\xwm@boxa=\box50
-\xwm@boxb=\box51
-\xwm@cnta=\count312
+\AtBeginShipoutBox=\box51
+\xwm@boxa=\box52
+\xwm@boxb=\box53
+\xwm@cnta=\count313
 \xwm@wrt=\write5
 
 (Template_-_Monografia_-_IFSP_-_SBV.xwm)
@@ -1323,9 +1341,9 @@ The option 'printmark' was not declared in package
 'xwatermark'. Perhaps you misspelled its name. 
 
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 231.
-\c@quadro=\count313
-\c@loqdepth=\count314
+Package hyperref Info: Option `colorlinks' set `true' on input line 232.
+\c@quadro=\count314
+\c@loqdepth=\count315
 \cftbeforequadroskip=\skip288
 \cftquadroindent=\skip289
 \cftquadronumwidth=\skip290
@@ -1341,28 +1359,28 @@ LaTeX Warning: Unused global option(s):
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
 \openout1 = `Template_-_Monografia_-_IFSP_-_SBV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 291.
-LaTeX Font Info:    ... okay on input line 291.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 291.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 292.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package hyperref Info: Link coloring ON on input line 291.
+Package hyperref Info: Link coloring ON on input line 292.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1370,35 +1388,35 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count315
+\c@section@level=\count316
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 291.
-LaTeX Info: Redefining \ref on input line 291.
-LaTeX Info: Redefining \pageref on input line 291.
-LaTeX Info: Redefining \nameref on input line 291.
-LaTeX Info: Redefining \degres on input line 291.
-LaTeX Info: Redefining \dots on input line 291.
-LaTeX Info: Redefining \up on input line 291.
-\myptabbox=\box52
+LaTeX Info: Redefining \nameref on input line 292.
+LaTeX Info: Redefining \ref on input line 292.
+LaTeX Info: Redefining \pageref on input line 292.
+LaTeX Info: Redefining \nameref on input line 292.
+LaTeX Info: Redefining \degres on input line 292.
+LaTeX Info: Redefining \dots on input line 292.
+LaTeX Info: Redefining \up on input line 292.
+\myptabbox=\box54
 \myptabboxwidth=\skip291
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 291.
+(lastpage)             ! on input line 292.
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
-\scratchdimen=\dimen298
-\scratchbox=\box53
-\nofMPsegments=\count317
-\nofMParguments=\count318
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count319
-\MPscratchDim=\dimen299
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count317
+\scratchdimen=\dimen300
+\scratchbox=\box55
+\nofMPsegments=\count318
+\nofMParguments=\count319
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count320
+\MPscratchDim=\dimen301
+\MPnumerator=\count321
+\makeMPintoPDFobject=\count322
+\everyMPtoPDFconversion=\toks52
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1412,7 +1430,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 291.
+LaTeX Info: Redefining \microtypecontext on input line 292.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1434,8 +1452,16 @@ Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count322
- (pre01Capa.tex
+\c@lstlisting=\count323
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (pre01Capa.tex
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
@@ -1609,30 +1635,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]) (pre09Abstract.tex [9
 
 ])
-(Template_-_Monografia_-_IFSP_-_SBV.lof [10
-
-]
-Overfull \hbox (36.18945pt too wide) in paragraph at lines 23--23
- [][] [][][]\T1/lmr/m/n/12 (-20) Acionamento de um \T1/lmr/m/it/12 (-20) MOS-FE
-T \T1/lmr/m/n/12 (-20) e seus 3 es-ta-dos:(a)chave aberta, ,(b)amplificador 
+(Template_-_Monografia_-_IFSP_-_SBV.lof
+Overfull \hbox (71.25943pt too wide) in paragraph at lines 5--5
+ \T1/lmr/m/n/12 (-20) Fonte:<http://www2.aneel.gov.br/aplicacoes/capacidadebras
+il/capacidadebrasil.cfm> 
  []
 
-) [11] (Template_-_Monografia_-_IFSP_-_SBV.lot) [12
+[10
 
 ]
-(Template_-_Monografia_-_IFSP_-_SBV.loq) [13
+Overfull \hbox (32.99074pt too wide) in paragraph at lines 23--23
+ [][] [][][]\T1/lmr/m/n/12 (-20) Acionamento de um \T1/lmr/m/it/12 (-20) MOS-FE
+T \T1/lmr/m/n/12 (-20) e seus 3 es-ta-dos:(a)chave aberta, (b)amplificador 
+ []
 
-] (pre10ListaSiglas.tex [14
+[11]) [12] (Template_-_Monografia_-_IFSP_-_SBV.lot) [13
+
+] (pre10ListaSiglas.tex
+[14
 
 
-])
-(pre11ListaSimbolos.tex [15
+]) (pre11ListaSimbolos.tex [15
 
 
-]) (Template_-_Monografia_-_IFSP_-_SBV.toc [16
+]) (Template_-_Monografia_-_IFSP_-_SBV.toc
+[16
 
-])
-[17] (capitulo01Introducao.tex [18
+]) [17] (capitulo01Introducao.tex [18
 
 
 ]
@@ -1645,12 +1674,12 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 24.
 )
 (capitulo02RevisaoLiteratura.tex [19]
-<imagens/Temp_IPCC.jpg, id=317, 445.9059pt x 176.3388pt>
+<imagens/Temp_IPCC.jpg, id=391, 445.9059pt x 176.3388pt>
 File: imagens/Temp_IPCC.jpg Graphic file (type jpg)
 <use imagens/Temp_IPCC.jpg>
 Package pdftex.def Info: imagens/Temp_IPCC.jpg  used on input line 12.
 (pdftex.def)             Requested size: 445.90482pt x 176.33836pt.
-<imagens/wind_solar.jpg, id=321, 228.855pt x 174.4116pt>
+<imagens/wind_solar.jpg, id=395, 228.855pt x 174.4116pt>
 File: imagens/wind_solar.jpg Graphic file (type jpg)
 <use imagens/wind_solar.jpg>
 Package pdftex.def Info: imagens/wind_solar.jpg  used on input line 29.
@@ -1658,28 +1687,37 @@ Package pdftex.def Info: imagens/wind_solar.jpg  used on input line 29.
  [20
 
  <./imagens/Temp_IPCC.jpg>]
-<imagens/FontesEnergia.png, id=335, 694.2738pt x 365.4453pt>
+<imagens/FontesEnergia.png, id=407, 380.17032pt x 259.7203pt>
 File: imagens/FontesEnergia.png Graphic file (type png)
 <use imagens/FontesEnergia.png>
 Package pdftex.def Info: imagens/FontesEnergia.png  used on input line 47.
-(pdftex.def)             Requested size: 347.13605pt x 182.7222pt.
- [21 <./imagens/wind_solar.jpg> <./imagens/FontesEnergia.png
+(pdftex.def)             Requested size: 380.16939pt x 259.71967pt.
 
-pdfTeX warning: pdflatex.exe (file ./imagens/FontesEnergia.png): large interlac
-ed PNG might cause out of memory (use non-interlaced PNG to fix this)
->]
-<imagens/IV_Gao.png, id=355, 279.6849pt x 200.9106pt>
+Underfull \hbox (badness 3439) in paragraph at lines 48--48
+[][]|\T1/lmr/m/n/12 (+20) Dis-tri-bui-ção da ma-triz ener-gé-tica em ope-ra-ção
+ se-gundo a ANEEL.
+ []
+
+
+Overfull \hbox (33.85577pt too wide) in paragraph at lines 48--48
+\T1/lmr/m/n/12 (-20) Fonte:<http://www2.aneel.gov.br/aplicacoes/capacidadebrasi
+l/capacidadebrasil.cfm>
+ []
+
+[21 <./imagens/wind_solar.jpg>]
+<imagens/IV_Gao.png, id=428, 279.6849pt x 200.9106pt>
 File: imagens/IV_Gao.png Graphic file (type png)
 <use imagens/IV_Gao.png>
 Package pdftex.def Info: imagens/IV_Gao.png  used on input line 65.
 (pdftex.def)             Requested size: 363.59033pt x 261.18373pt.
- [22 <./imagens/IV_Gao.png>] [23]
-<imagens/Temp_BRESSAN.jpg, id=377, 319.86702pt x 141.79375pt>
+ [22 <./imagens/FontesEnergia.png>] [23 <./imagens/IV_Gao.png>]
+<imagens/Temp_BRESSAN.jpg, id=451, 319.86702pt x 141.79375pt>
 File: imagens/Temp_BRESSAN.jpg Graphic file (type jpg)
 <use imagens/Temp_BRESSAN.jpg>
 Package pdftex.def Info: imagens/Temp_BRESSAN.jpg  used on input line 96.
 (pdftex.def)             Requested size: 415.82706pt x 184.33182pt.
-<imagens/CurvaIV.png, id=385, 1174.3875pt x 437.38406pt>
+ [24 <./imagens/Temp_BRESSAN.jpg>]
+<imagens/CurvaIV.png, id=463, 1174.3875pt x 437.38406pt>
 File: imagens/CurvaIV.png Graphic file (type png)
 <use imagens/CurvaIV.png>
 Package pdftex.def Info: imagens/CurvaIV.png  used on input line 112.
@@ -1689,42 +1727,40 @@ Overfull \hbox (14.74669pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
-[24 <./imagens/Temp_BRESSAN.jpg>]
-<imagens/IxV_schill.jpg, id=397, 205.82497pt x 164.48653pt>
+<imagens/IxV_schill.jpg, id=471, 205.82497pt x 164.48653pt>
 File: imagens/IxV_schill.jpg Graphic file (type jpg)
 <use imagens/IxV_schill.jpg>
 Package pdftex.def Info: imagens/IxV_schill.jpg  used on input line 129.
 (pdftex.def)             Requested size: 257.28055pt x 205.60764pt.
- [25 <./imagens/CurvaIV.png> <./imagens/IxV_schill.jpg>]
-<imagens/IxV_Temp.jpg, id=410, 810.77907pt x 599.99156pt>
+[25 <./imagens/CurvaIV.png>]
+<imagens/IxV_Temp.jpg, id=484, 810.77907pt x 599.99156pt>
 File: imagens/IxV_Temp.jpg Graphic file (type jpg)
 <use imagens/IxV_Temp.jpg>
 Package pdftex.def Info: imagens/IxV_Temp.jpg  used on input line 146.
 (pdftex.def)             Requested size: 243.2356pt x 179.99886pt.
-<imagens/MOSFET_LOAD.jpg, id=422, 239.9364pt x 178.266pt>
+<imagens/MOSFET_LOAD.jpg, id=496, 239.9364pt x 178.266pt>
 File: imagens/MOSFET_LOAD.jpg Graphic file (type jpg)
 <use imagens/MOSFET_LOAD.jpg>
 Package pdftex.def Info: imagens/MOSFET_LOAD.jpg  used on input line 162.
 (pdftex.def)             Requested size: 239.9358pt x 178.26555pt.
- [26 <./imagens/IxV_Temp.jpg> <./imagens/MOSFET_LOAD.jpg>]
-<imagens/Uno.png, id=432, 575.90157pt x 380.17032pt>
+ [26 <./imagens/IxV_schill.jpg> <./imagens/IxV_Temp.jpg>]
+<imagens/Uno.png, id=506, 575.90157pt x 380.17032pt>
 File: imagens/Uno.png Graphic file (type png)
 <use imagens/Uno.png>
 Package pdftex.def Info: imagens/Uno.png  used on input line 183.
-(pdftex.def)             Requested size: 403.12834pt x 266.1174pt.
- [27 <./imagens/Uno.png>]
-<imagens/PWM1.jpg, id=439, 521.95pt x 168.63pt>
+(pdftex.def)             Requested size: 345.54361pt x 228.10394pt.
+ [27 <./imagens/MOSFET_LOAD.jpg>] [28 <./imagens/Uno.png>]
+<imagens/PWM1.jpg, id=517, 521.95pt x 168.63pt>
 File: imagens/PWM1.jpg Graphic file (type jpg)
 <use imagens/PWM1.jpg>
 Package pdftex.def Info: imagens/PWM1.jpg  used on input line 235.
 (pdftex.def)             Requested size: 365.3625pt x 118.04018pt.
- [28 <./imagens/PWM1.jpg>]
-<imagens/PWM2.jpg, id=448, 521.95pt x 204.765pt>
+<imagens/PWM2.jpg, id=521, 521.95pt x 204.765pt>
 File: imagens/PWM2.jpg Graphic file (type jpg)
 <use imagens/PWM2.jpg>
 Package pdftex.def Info: imagens/PWM2.jpg  used on input line 251.
 (pdftex.def)             Requested size: 365.3625pt x 143.3345pt.
-<imagens/PWM3.jpg, id=452, 521.95pt x 317.185pt>
+<imagens/PWM3.jpg, id=525, 521.95pt x 317.185pt>
 File: imagens/PWM3.jpg Graphic file (type jpg)
 <use imagens/PWM3.jpg>
 Package pdftex.def Info: imagens/PWM3.jpg  used on input line 268.
@@ -1735,94 +1771,230 @@ Underfull \hbox (badness 5592) in paragraph at lines 269--269
 tes va-lo-res mé-dios
  []
 
-<imagens/PWM4.jpg, id=456, 521.95pt x 257.96375pt>
+[29 <./imagens/PWM1.jpg> <./imagens/PWM2.jpg>]
+<imagens/PWM4.jpg, id=535, 521.95pt x 257.96375pt>
 File: imagens/PWM4.jpg Graphic file (type jpg)
 <use imagens/PWM4.jpg>
 Package pdftex.def Info: imagens/PWM4.jpg  used on input line 286.
 (pdftex.def)             Requested size: 365.3625pt x 180.57338pt.
-[29 <./imagens/PWM2.jpg> <./imagens/PWM3.jpg>]
-<imagens/ADS.png, id=466, 567.5604pt x 283.7802pt>
+ [30 <./imagens/PWM3.jpg> <./imagens/PWM4.jpg>]
+<imagens/ADS.png, id=547, 567.5604pt x 283.7802pt>
 File: imagens/ADS.png Graphic file (type png)
 <use imagens/ADS.png>
-Package pdftex.def Info: imagens/ADS.png  used on input line 313.
+Package pdftex.def Info: imagens/ADS.png  used on input line 311.
 (pdftex.def)             Requested size: 397.28957pt x 198.64478pt.
- [30 <./imagens/PWM4.jpg>]
-<imagens/I2C.jpg, id=477, 620.3175pt x 185.94469pt>
+ [31 <./imagens/ADS.png>]
+<imagens/I2C.jpg, id=559, 620.3175pt x 185.94469pt>
 File: imagens/I2C.jpg Graphic file (type jpg)
 <use imagens/I2C.jpg>
-Package pdftex.def Info: imagens/I2C.jpg  used on input line 337.
+Package pdftex.def Info: imagens/I2C.jpg  used on input line 335.
 (pdftex.def)             Requested size: 434.2193pt x 130.16037pt.
-
-[31 <./imagens/ADS.png>]
-<imagens/SDCARD.png, id=488, 494.59781pt x 182.93344pt>
+<imagens/SDCARD.png, id=565, 494.59781pt x 182.93344pt>
 File: imagens/SDCARD.png Graphic file (type png)
 <use imagens/SDCARD.png>
-Package pdftex.def Info: imagens/SDCARD.png  used on input line 355.
+Package pdftex.def Info: imagens/SDCARD.png  used on input line 353.
 (pdftex.def)             Requested size: 346.2161pt x 128.05252pt.
- [32 <./imagens/I2C.jpg> <./imagens/SDCARD.png>]
-<imagens/SPI.png, id=494, 602.25pt x 363.60844pt>
+ [32 <./imagens/I2C.jpg>]
+<imagens/SPI.png, id=571, 602.25pt x 363.60844pt>
 File: imagens/SPI.png Graphic file (type png)
 <use imagens/SPI.png>
-Package pdftex.def Info: imagens/SPI.png  used on input line 382.
+Package pdftex.def Info: imagens/SPI.png  used on input line 380.
 (pdftex.def)             Requested size: 421.57211pt x 254.52417pt.
-<imagens/MOSFET1.png, id=498, 210.7875pt x 274.77657pt>
+ [33 <./imagens/SDCARD.png>]
+<imagens/MOSFET1.png, id=584, 210.7875pt x 274.77657pt>
 File: imagens/MOSFET1.png Graphic file (type png)
 <use imagens/MOSFET1.png>
-Package pdftex.def Info: imagens/MOSFET1.png  used on input line 406.
+Package pdftex.def Info: imagens/MOSFET1.png  used on input line 404.
 (pdftex.def)             Requested size: 105.3935pt x 137.38794pt.
-
-[33 <./imagens/SPI.png>]
-<imagens/MOSFET2.png, id=509, 436.63126pt x 215.30438pt>
+<imagens/MOSFET2.png, id=590, 436.63126pt x 215.30438pt>
 File: imagens/MOSFET2.png Graphic file (type png)
 <use imagens/MOSFET2.png>
-Package pdftex.def Info: imagens/MOSFET2.png  used on input line 421.
+Package pdftex.def Info: imagens/MOSFET2.png  used on input line 419.
 (pdftex.def)             Requested size: 218.3151pt x 107.65192pt.
-<imagens/MOSFET3.png, id=517, 519.44063pt x 350.81062pt>
+ [34 <./imagens/SPI.png> <./imagens/MOSFET1.png>]
+<imagens/MOSFET3.png, id=602, 519.44063pt x 350.81062pt>
 File: imagens/MOSFET3.png Graphic file (type png)
 <use imagens/MOSFET3.png>
-Package pdftex.def Info: imagens/MOSFET3.png  used on input line 436.
+Package pdftex.def Info: imagens/MOSFET3.png  used on input line 434.
 (pdftex.def)             Requested size: 259.71968pt x 175.40488pt.
 
-Underfull \hbox (badness 4954) in paragraph at lines 437--437
+Underfull \hbox (badness 4954) in paragraph at lines 435--435
 [][]|\T1/lmr/m/n/12 (+20) Aci-o-na-mento de um \T1/lmr/m/it/12 (+20) MOS-FET \T
 1/lmr/m/n/12 (+20) e seus 3 es-ta-dos:(a)chave aberta,
  []
 
-[34 <./imagens/MOSFET1.png> <./imagens/MOSFET2.png>]
-<imagens/CEAMP.png, id=531, 349.305pt x 275.52937pt>
+<imagens/CEAMP.png, id=612, 349.305pt x 275.52937pt>
 File: imagens/CEAMP.png Graphic file (type png)
 <use imagens/CEAMP.png>
-Package pdftex.def Info: imagens/CEAMP.png  used on input line 455.
+Package pdftex.def Info: imagens/CEAMP.png  used on input line 453.
 (pdftex.def)             Requested size: 244.51183pt x 192.86923pt.
-)
-(capitulo03Metodologia.tex [35 <./imagens/MOSFET3.png> <./imagens/CEAMP.png>]
-[36
+[35 <./imagens/MOSFET2.png> <./imagens/MOSFET3.png>])
+(capitulo03Metodologia.tex [36 <./imagens/CEAMP.png>]
+<imagens/ArduinoLigacoes.jpg, id=626, 560.8453pt x 397.485pt>
+File: imagens/ArduinoLigacoes.jpg Graphic file (type jpg)
+<use imagens/ArduinoLigacoes.jpg>
+Package pdftex.def Info: imagens/ArduinoLigacoes.jpg  used on input line 33.
+(pdftex.def)             Requested size: 168.25488pt x 119.24641pt.
+ [37
 
-]
+ <./imagens/ArduinoLigacoes.jpg>]
+<imagens/ArduinoSPI_I2C.png, id=634, 834.11626pt x 605.26125pt>
+File: imagens/ArduinoSPI_I2C.png Graphic file (type png)
+<use imagens/ArduinoSPI_I2C.png>
+Package pdftex.def Info: imagens/ArduinoSPI_I2C.png  used on input line 49.
+(pdftex.def)             Requested size: 250.2368pt x 181.57976pt.
+<imagens/SdcardADS.jpg, id=635, 713.66624pt x 472.01344pt>
+File: imagens/SdcardADS.jpg Graphic file (type jpg)
+<use imagens/SdcardADS.jpg>
+Package pdftex.def Info: imagens/SdcardADS.jpg  used on input line 62.
+(pdftex.def)             Requested size: 214.10152pt x 141.60512pt.
+<imagens/CargaEletronica.png, id=637, 1022.31938pt x 545.03625pt>
+File: imagens/CargaEletronica.png Graphic file (type png)
+<use imagens/CargaEletronica.png>
+Package pdftex.def Info: imagens/CargaEletronica.png  used on input line 78.
+(pdftex.def)             Requested size: 306.69818pt x 163.51213pt.
+ [38 <./imagens/ArduinoSPI_I2C.png> <./imagens/SdcardADS.jpg>]
+<imagens/Lamp.png, id=644, 454.69875pt x 562.35094pt>
+File: imagens/Lamp.png Graphic file (type png)
+<use imagens/Lamp.png>
+Package pdftex.def Info: imagens/Lamp.png  used on input line 94.
+(pdftex.def)             Requested size: 295.55067pt x 365.52377pt.
+<PDFs/AllComponents-rotated-1.png, id=647, 1141.26375pt x 1604.99625pt>
+File: PDFs/AllComponents-rotated-1.png Graphic file (type png)
+<use PDFs/AllComponents-rotated-1.png>
+Package pdftex.def Info: PDFs/AllComponents-rotated-1.png  used on input line 1
+13.
+(pdftex.def)             Requested size: 342.38176pt x 481.5026pt.
 
-LaTeX Warning: Reference `label' on page 37 undefined on input line 41.
+[39 <./imagens/CargaEletronica.png> <./imagens/Lamp.png>] [40 <./PDFs/AllCompon
+ents-rotated-1.png>]
+<imagens/CircuitoArduino.png, id=663, 602.25pt x 415.5525pt>
+File: imagens/CircuitoArduino.png Graphic file (type png)
+<use imagens/CircuitoArduino.png>
+Package pdftex.def Info: imagens/CircuitoArduino.png  used on input line 138.
+(pdftex.def)             Requested size: 451.68639pt x 311.6636pt.
+<imagens/CircuitoMod.png, id=668, 618.81187pt x 414.04688pt>
+File: imagens/CircuitoMod.png Graphic file (type png)
+<use imagens/CircuitoMod.png>
+Package pdftex.def Info: imagens/CircuitoMod.png  used on input line 156.
+(pdftex.def)             Requested size: 309.40518pt x 207.02292pt.
+ [41 <./imagens/CircuitoArduino.png>]
+<imagens/CircuitoElet.png, id=678, 788.9475pt x 490.83376pt>
+File: imagens/CircuitoElet.png Graphic file (type png)
+<use imagens/CircuitoElet.png>
+Package pdftex.def Info: imagens/CircuitoElet.png  used on input line 174.
+(pdftex.def)             Requested size: 394.47278pt x 245.41628pt.
+ [42 <./imagens/CircuitoMod.png> <./imagens/CircuitoElet.png>]
+<imagens/CircuitoLED.png, id=687, 614.295pt x 306.39468pt>
+File: imagens/CircuitoLED.png Graphic file (type png)
+<use imagens/CircuitoLED.png>
+Package pdftex.def Info: imagens/CircuitoLED.png  used on input line 192.
+(pdftex.def)             Requested size: 491.43666pt x 245.11607pt.
 
-<imagens/Precisao.png, id=546, 667.74469pt x 398.23781pt>
-File: imagens/Precisao.png Graphic file (type png)
-<use imagens/Precisao.png>
-Package pdftex.def Info: imagens/Precisao.png  used on input line 60.
-(pdftex.def)             Requested size: 400.6499pt x 238.94452pt.
-[37] [38 <./imagens/Precisao.png>]) (capitulo04ResultadosDiscussao.tex [39])
-(capitulo05Conclusoes.tex [40
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1--1
-[]\T1/lmss/m/n/24.88 CONCLUSÕES/CONCLUSÕES PAR-CI-
+Overfull \hbox (36.43666pt too wide) in paragraph at lines 192--193
+ [][] 
  []
 
-) (capitulo06Cronograma.tex [41
+<imagens/Precisao.png, id=690, 407.72325pt x 249.3315pt>
+File: imagens/Precisao.png Graphic file (type png)
+<use imagens/Precisao.png>
+Package pdftex.def Info: imagens/Precisao.png  used on input line 216.
+(pdftex.def)             Requested size: 407.72224pt x 249.33087pt.
+[43 <./imagens/CircuitoLED.png>]
+<imagens/LampII.png, id=698, 1030.60031pt x 601.4972pt>
+File: imagens/LampII.png Graphic file (type png)
+<use imagens/LampII.png>
+Package pdftex.def Info: imagens/LampII.png  used on input line 231.
+(pdftex.def)             Requested size: 309.18248pt x 180.45055pt.
+ [44 <./imagens/Precisao.png> <./imagens/LampII.png>]) (capitulo04ResultadosDis
+cussao.tex [45]
+<imagens/CurvaArduino.png, id=710, 912.40875pt x 490.83376pt>
+File: imagens/CurvaArduino.png Graphic file (type png)
+<use imagens/CurvaArduino.png>
+Package pdftex.def Info: imagens/CurvaArduino.png  used on input line 16.
+(pdftex.def)             Requested size: 456.20326pt x 245.41628pt.
 
-]) (Template_-_Monografia_-_IFSP_-_SBV.bbl
+Overfull \hbox (1.20326pt too wide) in paragraph at lines 16--17
+ [][] 
+ []
+
+<imagens/CurvaIVdeformadaII.png, id=713, 492.33937pt x 267.24844pt>
+File: imagens/CurvaIVdeformadaII.png Graphic file (type png)
+<use imagens/CurvaIVdeformadaII.png>
+Package pdftex.def Info: imagens/CurvaIVdeformadaII.png  used on input line 31.
+
+(pdftex.def)             Requested size: 418.49042pt x 227.16225pt.
+[46
+
+ <./imagens/CurvaArduino.png>]
+<imagens/CurvaResistencia.png, id=723, 849.92531pt x 615.0478pt>
+File: imagens/CurvaResistencia.png Graphic file (type png)
+<use imagens/CurvaResistencia.png>
+Package pdftex.def Info: imagens/CurvaResistencia.png  used on input line 46.
+(pdftex.def)             Requested size: 339.9641pt x 246.01476pt.
+<imagens/Leitura.png, id=730, 597.73312pt x 813.79031pt>
+File: imagens/Leitura.png Graphic file (type png)
+<use imagens/Leitura.png>
+Package pdftex.def Info: imagens/Leitura.png  used on input line 60.
+(pdftex.def)             Requested size: 119.5445pt x 162.75517pt.
+ [47 <./imagens/CurvaIVdeformadaII.png> <./imagens/CurvaResistencia.png>]
+<imagens/CurvaIVpoucospontos.png, id=736, 666.23906pt x 402.00188pt>
+File: imagens/CurvaIVpoucospontos.png Graphic file (type png)
+<use imagens/CurvaIVpoucospontos.png>
+Package pdftex.def Info: imagens/CurvaIVpoucospontos.png  used on input line 73
+.
+(pdftex.def)             Requested size: 466.36415pt x 281.39938pt.
+
+Overfull \hbox (11.36415pt too wide) in paragraph at lines 73--74
+ [][] 
+ []
+
+<imagens/CurvaIVdeformada.png, id=738, 1001.99344pt x 429.85594pt>
+File: imagens/CurvaIVdeformada.png Graphic file (type png)
+<use imagens/CurvaIVdeformada.png>
+Package pdftex.def Info: imagens/CurvaIVdeformada.png  used on input line 88.
+(pdftex.def)             Requested size: 400.79028pt x 171.93933pt.
+[48 <./imagens/Leitura.png> <./imagens/CurvaIVpoucospontos.png>]
+<imagens/CurvaIVfinal.png, id=746, 461.92575pt x 236.68425pt>
+File: imagens/CurvaIVfinal.png Graphic file (type png)
+<use imagens/CurvaIVfinal.png>
+Package pdftex.def Info: imagens/CurvaIVfinal.png  used on input line 103.
+(pdftex.def)             Requested size: 461.92462pt x 236.68367pt.
+
+Overfull \hbox (6.92462pt too wide) in paragraph at lines 103--104
+ [][] 
+ []
+
+<imagens/Icc.png, id=751, 946.28531pt x 542.025pt>
+File: imagens/Icc.png Graphic file (type png)
+<use imagens/Icc.png>
+Package pdftex.def Info: imagens/Icc.png  used on input line 121.
+(pdftex.def)             Requested size: 425.82446pt x 243.90898pt.
+[49 <./imagens/CurvaIVdeformada.png> <./imagens/CurvaIVfinal.png>]
+<imagens/irrad.png, id=763, 645.91313pt x 513.41812pt>
+File: imagens/irrad.png Graphic file (type png)
+<use imagens/irrad.png>
+Package pdftex.def Info: imagens/irrad.png  used on input line 137.
+(pdftex.def)             Requested size: 355.25333pt x 282.38083pt.
+ [50 <./imagens/Icc.png>]
+<imagens/Iccs.png, id=771, 940.26282pt x 542.025pt>
+File: imagens/Iccs.png Graphic file (type png)
+<use imagens/Iccs.png>
+Package pdftex.def Info: imagens/Iccs.png  used on input line 152.
+(pdftex.def)             Requested size: 423.11436pt x 243.90898pt.
+<imagens/IccIV.png, id=772, 911.65594pt x 533.74406pt>
+File: imagens/IccIV.png Graphic file (type png)
+<use imagens/IccIV.png>
+Package pdftex.def Info: imagens/IccIV.png  used on input line 165.
+(pdftex.def)             Requested size: 410.24138pt x 240.1826pt.
+ [51 <./imagens/irrad.png> <./imagens/Iccs.png>])
+(capitulo05Conclusoes.tex [52 <./imagens/IccIV.png>]) (capitulo06Cronograma.tex
+) (Template_-_Monografia_-_IFSP_-_SBV.bbl
 (Template_-_Monografia_-_IFSP_-_SBV.brf)
 \tf@brf=\write7
 \openout7 = `Template_-_Monografia_-_IFSP_-_SBV.brf'.
 
- [42
+ [53
 
 ]
 
@@ -1830,73 +2002,105 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-[43
+[54
 
-]) (pos01Apendices.tex [44]
+]) (pos01Apendices.tex [55]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 10.
+(hyperref)                removing `\uppercase' on input line 11.
 
-[45
+[56
 
-
-] [46
-
-]) (pos02Anexos.tex [47
 
 ]
+File: PDFs/AllComponents-rotated-1.png Graphic file (type png)
+<use PDFs/AllComponents-rotated-1.png>
+Package pdftex.def Info: PDFs/AllComponents-rotated-1.png  used on input line 1
+5.
+(pdftex.def)             Requested size: 456.49742pt x 641.98714pt.
+
+Overfull \hbox (38.48608pt too wide) in paragraph at lines 15--17
+[][] 
+ []
+
+[57
+
+]
+Overfull \vbox (2.03723pt too high) has occurred while \output is active []
+
+
+[58]
+<PDFs/values.png, id=863, 698.61pt x 542.025pt>
+File: PDFs/values.png Graphic file (type png)
+<use PDFs/values.png>
+Package pdftex.def Info: PDFs/values.png  used on input line 21.
+(pdftex.def)             Requested size: 419.16924pt x 325.2175pt.
+
+Overfull \hbox (1.1579pt too wide) in paragraph at lines 21--21
+[][] 
+ []
+
+) (pos02Anexos.tex [59
+
+ <./PDFs/values.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 10.
 
-[48
+[60
 
 
-] [49
+]
+<Anexos/ads1115.png, id=873, 1117.17375pt x 1656.1875pt>
+File: Anexos/ads1115.png Graphic file (type png)
+<use Anexos/ads1115.png>
+Package pdftex.def Info: Anexos/ads1115.png  used on input line 15.
+(pdftex.def)             Requested size: 391.01668pt x 579.67432pt.
+ [61
 
-]) 
+ <./Anexos/ads1115.png>]
+<Anexos/Atmel-089.png, id=881, 1243.64626pt x 906.38625pt>
+File: Anexos/Atmel-089.png Graphic file (type png)
+<use Anexos/Atmel-089.png>
+Package pdftex.def Info: Anexos/Atmel-089.png  used on input line 25.
+(pdftex.def)             Requested size: 373.09676pt x 271.91797pt.
+) 
 AED: lastpage setting LastPage
-[50
+[62
 
-]
+ <./Anexos/Atmel-089.png>]
 \tf@lof=\write8
 \openout8 = `Template_-_Monografia_-_IFSP_-_SBV.lof'.
 
 \tf@lot=\write9
 \openout9 = `Template_-_Monografia_-_IFSP_-_SBV.lot'.
 
-\tf@loq=\write10
-\openout10 = `Template_-_Monografia_-_IFSP_-_SBV.loq'.
+\tf@toc=\write10
+\openout10 = `Template_-_Monografia_-_IFSP_-_SBV.toc'.
 
-\tf@toc=\write11
-\openout11 = `Template_-_Monografia_-_IFSP_-_SBV.toc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 463.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 463.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 469.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 469.
  (Template_-_Monografia_-_IFSP_-_SBV.xwm)
 (Template_-_Monografia_-_IFSP_-_SBV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 469.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 469.
 Package rerunfilecheck Info: File `Template_-_Monografia_-_IFSP_-_SBV.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: C6FE5BFFE80341964D64E7F2E8E50658;5202.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: 40625B8D932BEBE60C4D14E2D193FA75;5515.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 463.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 469.
  ) 
 Here is how much of TeX's memory you used:
- 33249 strings out of 492973
- 583082 string characters out of 3135921
- 884815 words of memory out of 3000000
- 36184 multiletter control sequences out of 15000+200000
- 106105 words of font info for 161 fonts, out of 3000000 for 9000
+ 34132 strings out of 492973
+ 597670 string characters out of 3135921
+ 906703 words of memory out of 3000000
+ 36965 multiletter control sequences out of 15000+200000
+ 107060 words of font info for 170 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,67p,1088b,631s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,11n,67p,1594b,633s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Fil
 es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
 nc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec
@@ -1912,10 +2116,10 @@ KTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 /fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pf
 b>
-Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (50 pages, 4473568 byt
-es).
+Output written on Template_-_Monografia_-_IFSP_-_SBV.pdf (62 pages, 12788552 by
+tes).
 PDF statistics:
- 880 PDF objects out of 1000 (max. 8388607)
- 153 named destinations out of 1000 (max. 500000)
- 37888 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1131 PDF objects out of 1200 (max. 8388607)
+ 195 named destinations out of 1000 (max. 500000)
+ 38029 words of extra memory for PDF output out of 42996 (max. 10000000)
 

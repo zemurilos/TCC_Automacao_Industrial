@@ -221,4 +221,28 @@
   url       = {http://www.newtoncbraga.com.br/index.php/robotica/5169-mec071a},
 }
 
+@Article{Leens2009AnIT,
+  author  = {Frederic Leens},
+  title   = {An introduction to I2C and SPI protocols},
+  journal = {IEEE Instrumentation \& Measurement Magazine},
+  year    = {2009},
+  volume  = {12},
+  pages   = {8-13},
+}
+
+@Article{de2004manual,
+  author  = {João Tavares Pinho, Marco Antonio Galdino},
+  title   = {Manual de Engenharia para Sistemas Fotovoltaicos},
+  journal = {CRESCEB, Rio de Janeiro},
+  year    = {2004},
+}
+
+@Misc{aneel,
+  author       = {ANEEL},
+  title        = {BIG-Banco de Informações de Geração},
+  howpublished = {\url{http://www2.aneel.gov.br/aplicacoes/capacidadebrasil/capacidadebrasil.cfm}},
+  year         = {2019},
+  note         = {Acessado: 15/06/2019},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

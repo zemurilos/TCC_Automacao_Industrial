@@ -1,4 +1,16 @@
-\chapter{Conclusões/Conclusões Parciais}
+\chapter{Conclusões}
 \label{cap:05}
 
-Texto das conclusões (as conclusões parciais são para a graduação na qualificação).
+A maior contribuição deste projeto se dá no processo de criação de um traçador de curvas IV para painéis fotovoltaicos de baixa potência, desde a importância por trás do seu uso para atestar o funcionamento correto, bem como para seu uso em estudos e testes de sombreamento e defeitos o sobre painéis fotovoltaicos. O trabalho também apresentou a possibilidade de ocorrer erros durante o desenvolvimento e teste dos circuitos, desta maneira facilitando o processo de replicação e melhoria do traçador aqui apresentado, garantindo assim o incentivo ao uso e estudo de energia fotovoltaica. Outro aspecto se dá no baixo custo do protótipo, como visto no Anexo~\ref{Anx1}, o qual apresenta o valor total gasto em componentes para replicar o projeto.
+
+A fim de viabilizar o estudo foi utilizado um ambiente de testes estático para o desenvolvimento do traçador utilizando lâmpada halógena de $500$ $W$, esse ambiente permitiu testes contínuos e com variáveis controladas, de maneira a proporcionou a verificação e correção de defeitos pontualmente. O projeto atual não considera problemas como variações de temperatura, irradiância, nuvens e outros aspectos climáticos. Há também a restrição quanto a potência do painel, 25 V e 8 A, devido ao uso dos resistores divisores de tensão para a diminuição da tensão medida pelo conversor AD, a qual é facilmente transposta pelo uso de diferentes valores para o divisor de tensão. Entretanto, há o valor máximo devido ao MOSFET IRF540N, $V_{DSS} = 100$ V e $I_{D} = 33$ A, de acordo com o Datasheet do fabricante.
+
+No que se diz respeito a esses limitadores, é possível a produção de trabalhos futuros com o uso de componentes que permitam painéis de diferentes potências. Há também a possibilidade de testes com painéis com defeitos internos e conjuntos de painéis tendo entre eles defeituosos e plenos. Outra possibilidade está no uso de um traçador utilizando capacitores e uma possível comparação entre a curva do painel por carga eletrônica e a curva do painel por capacitor.
+
+Outros possíveis trabalhos podem ser modelados a partir do uso da lâmpada halógena, com o uso de formas diferentes das utilizadas neste trabalho, posicionada paralelamente em relação ao painel, é possível simular a projeção do sol durante o dia em diferentes horários do dia, além da simulação de diferentes climas, sendo assim adicionado mais variáveis como temperatura externa, temperatura sobre o painel, etc.
+
+Como outra sugestão de possíveis trabalhos se dá na criação de um algoritmo de MPPT, o qual tem como princípio a curva IV do painel fotovoltaico. Ao se utilizar um MPPT é possível garantir que o painel possa gerar sua máxima potência em um dado período de tempo no qual está sendo testado.
+
+
+
+
