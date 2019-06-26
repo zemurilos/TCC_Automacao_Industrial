@@ -11,7 +11,7 @@
 \documentclass[
 	% -- opções da classe memoir --
 	12pt,				% tamanho da fonte
-	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	openany,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
 	oneside,			% para impressão em verso e anverso. Oposto a oneside
 	a4paper,			% tamanho do papel. 
 	normalfigtabnum,
@@ -63,6 +63,7 @@
 \usepackage{bigints}
 \usepackage{listings}
 \usepackage{etoolbox}
+\usepackage[final]{pdfpages}
 \let\footruleskip\undefined
 
 
@@ -368,9 +369,9 @@
 % ---
 % inserir lista de quadros
 % ---
-\pdfbookmark[0]{\listofquadrosname}{loq}
-\listofquadros*
-\cleardoublepage
+%\pdfbookmark[0]{\listofquadrosname}{loq}
+%\listofquadros*
+%\cleardoublepage
 % ---
 
 % ---
@@ -421,14 +422,15 @@
 % ---------------------------------------------------------------------------------
 %                                 ELEMENTOS PÓS-TEXTUAIS
 % ---------------------------------------------------------------------------------
-\postextual
+%\postextual
 
 
 % ----------------------------------------------------------
 % Referências bibliográficas
 % ----------------------------------------------------------
-\bibliography{referencias}
+\postextual
 
+\bibliography{referencias}
 
 % ----------------------------------------------------------
 % Glossário
@@ -439,10 +441,14 @@
 %\glossary
 
 
-% ----------------------------------------------------------
+
+%\let\cleardoublepage\clearpage ----------------------------------------------------------
 % Apêndices
 % ----------------------------------------------------------
+%\openany
+\makeatletter\@openrightfalse
 \input{pos01Apendices}
+\@openrighttrue\makeatother 
 
 
 % ----------------------------------------------------------

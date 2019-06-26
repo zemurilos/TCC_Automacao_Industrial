@@ -11,6 +11,12 @@
   maximum power point tracking. In:  IEEE. \textbf{Power Electronics Conference
   (SPEC), IEEE Annual Southern}. [S.l.], 2016. p.~1--6.}
 
+\bibitem[ANEEL 2019]{aneel}
+\abntrefinfo{ANEEL}{ANEEL}{2019}
+{ANEEL. \textbf{BIG-Banco de Informações de Geração}. 2019.
+  \url{http://www2.aneel.gov.br/aplicacoes/capacidadebrasil/capacidadebrasil.cfm}.
+Acessado: 15/06/2019.}
+
 \bibitem[Braga 2008]{ART2885}
 \abntrefinfo{Braga}{BRAGA}{2008}
 {BRAGA, N.~C. \textbf{Carga eletrônica}. 2008.
@@ -55,6 +61,11 @@ ISSN 0038-092X.
 Dispon{\'\i}vel em:
   \url{http://www.sciencedirect.com/science/article/pii/S0038092X18303141}.}
 
+\bibitem[Leens 2009]{Leens2009AnIT}
+\abntrefinfo{Leens}{LEENS}{2009}
+{LEENS, F. An introduction to i2c and spi protocols.
+\textbf{IEEE Instrumentation \& Measurement Magazine}, v.~12, p. 8--13, 2009.}
+
 \bibitem[Li et al. 2017]{li2017reduction}
 \abntrefinfo{Li et al.}{LI et al.}{2017}
 {LI, X. et al. Reduction of solar photovoltaic resources due to air pollution
@@ -74,6 +85,11 @@ Dispon{\'\i}vel em:
 {OLIVEIRA, F.~S. de; RAMPINELLI, G.~A.; KRENZINGER, A. Desenvolvimento de um
   tra{\c{c}}ador de curvas {IV} para arranjos fotovoltaicos.
 \textbf{Revista Brasileira de Energia Solar}, v.~7, n.~2, p. 82--90, 2016.}
+
+\bibitem[Pinho 2004]{de2004manual}
+\abntrefinfo{Pinho}{PINHO}{2004}
+{PINHO, M. A.~G. J.~T. Manual de engenharia para sistemas fotovoltaicos.
+\textbf{CRESCEB, Rio de Janeiro}, 2004.}
 
 \bibitem[Ribeiro et al. 2017]{ribeiro2017proposiccao}
 \abntrefinfo{Ribeiro et al.}{RIBEIRO et al.}{2017}
@@ -95,14 +111,6 @@ Dispon{\'\i}vel em:
 \abntrefinfo{Semiconductors}{SEMICONDUCTORS}{2000}
 {SEMICONDUCTORS, P. {T}he {I2C}-bus specification.
 \textbf{Philips Semiconductors}, v.~9397, n.~750, p. 00954, 2000.}
-
-\bibitem[Wanderley 2013]{wanderley2013perspectivas}
-\abntrefinfo{Wanderley}{WANDERLEY}{2013}
-{WANDERLEY, A. C.~F.
-\textbf{Perspectivas de inser{\c{c}}{\~a}o da energia solar fotovoltaica na
-  gera{\c{c}}{\~a}o de energia el{\'e}trica no Rio Grande do Norte}.
-Disserta\c{c}\~{a}o (Mestrado) --- Universidade Federal do Rio Grande do Norte,
-  2013.}
 
 \bibitem[Weitemeyer et al. 2015]{weitemeyer2015integration}
 \abntrefinfo{Weitemeyer et al.}{WEITEMEYER et al.}{2015}
