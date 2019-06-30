@@ -1,0 +1,9 @@
+Painel fotovoltaico monocristalino, marca Sunhome modelo ST-M10
+ 
+PMAX = 10W 
+VOC = 21,6V 
+ISC = 0,6A
+VMP = 18V
+IMP = 0,556A 
+Eficiência de conversão de 9,9%
+

@@ -1,0 +1,13 @@
+Após a realização de diversos experimentos durante o projeto, o seguintes resultados foram obtidos:
+
+Curvas I-V
+
+Tendo como principal a obtenção da curva I-V, os principais resultados obtidos vão de encontro com a premissa, logo foram obtidas diversas curvas I-V como se segue:
+
+Fotos das curvas...
+
+Curva I-V Protótipo + Lâmpada
+
+A curva da figura x.x mostra a curva feita durante os testes do prototipo em protoboard, ou breadboard (Placa perfura especifica para prototipagem e testes eletronicos). Durante os testes houve a utilização de uma lamapada halogenea para os manter as variaveis de teste o mais estaveis possíveis.
+
+A curva I-V seguinte, figura x.x+1, foi realizada com uma programação diferente de PWM, foram colocadas diferentes resoluções de maneira a verificar qual seria a forma de conseguir uma melhor resolução no grafico coletado, a seguir nas figuras x.x+2 até figura x.x+2+y.

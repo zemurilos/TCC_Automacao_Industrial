@@ -1,0 +1,210 @@
+/*
+   Author: Murilo Fabricio
+   IC_IFSP
+   Pin 9 PWM para carga eletrônica
+   ADS1115 faz a leitura analógica
+   Hardware:
+   
+   SD Card
+
+   > CS   - pin 10
+   > MOSI - pin 11
+   > MISO - pin 12
+   > CLK  - pin 13
+
+   > PWM - pin D9
+
+*/
+
+#include <SD.h>
+#include <Wire.h>
+#include <Adafruit_ADS1015.h>
+
+Adafruit_ADS1115 ads;
+
+// ---    Parameters    --- \\
+// ---    Hardware Mapping    --- \\
+// -- SD Card
+#define CS_pin   10                 
+
+//Macros para tratar bits
+#define set_bit(reg,bit)  (reg |= (1<<bit))
+#define reset_bit(reg,bit)  (reg &= ~(1<<bit))
+
+File myFile;                           //Ponteiro para o arquivo de dados
+
+// ---    Variaveis Globais  --- \\
+
+//Sequências de resolução para o PWM
+int16_t pwmr = 8191;
+
+int voltageValue;
+int currentValue;
+int8_t p = 1;
+int j = 7100;
+
+//Funções
+void dutyPwm(int16_t _pwmresolution);
+void setPwm(int16_t pwm);
+void getdata();
+
+void setup()
+{
+
+//Define os pinos de LED para OUTPUT
+  set_bit(DDRD, 7);             //Led Gree
+  set_bit(DDRD, 6);             //Led Red
+  set_bit(DDRD, 5);             //Led Yellow
+  set_bit(DDRD, 4);             //Led Blue
+  set_bit(DDRD, 3);             //Led White
+  ads.setGain(GAIN_TWOTHIRDS);  //Ganho do ADS 2/3x => +/- 6.144V  1 bit = 0.1875mV (default)
+  ads.begin();
+  
+  setPwm(pwmr);			//Configura o PWM
+
+//LEDs todos desligados
+  reset_bit(PORTD, PORTD7);     //Led Green
+  reset_bit(PORTD, PORTD6);     //Led Red
+  reset_bit(PORTD, PORTD5);     //Led Yellow
+  reset_bit(PORTD, PORTD4);     //Led Blue
+  reset_bit(PORTD, PORTD3);     //Led White
+
+  pinMode(CS_pin, OUTPUT);
+
+  if (!SD.begin(CS_pin))                          //Testa cartão SD
+  {
+    set_bit(PORTD, PORTD6);
+    return;                                       //Erro -> LED Vermelho
+  }
+
+  set_bit(PORTD, PORT7);			//successo ao inciar cartão SD -> LED Verde
+  myFile = SD.open("dadosa.csv", FILE_WRITE); 	//Salva dados no dadosa.csv
+
+
+  if (myFile)                                     //Verifica se não há erros na abertura do arquivo
+  { 
+    myFile.println("Voltage_SOLAR_PANEL, CURRENT");// cabeçalho
+    myFile.close();
+  } 
+  else                                            //Erro ao abrir arquivo -> LED Verde e Vermelho
+  {
+    set_bit(PORTD, PORTD7);
+    set_bit(PORTD, PORTD6);
+  }
+
+  getdata();					//Função para leitura de dados
+
+}
+
+
+void loop()
+{
+}
+
+void getdata() {
+
+  set_bit(PORTD, PORT7);//Led Verde
+  set_bit(PORTD, PORT5);//Led Amarelo 
+
+  File myFile = SD.open("dadosa.csv", FILE_WRITE); //Abre o arquivo novamente
+
+//Leitura dos valores ads
+
+  int16_t adc0, adc1;
+
+//Coloca o Duty Cycle do PWM
+  dutyPwm(pwmr);
+
+  adc0 = ads.readADC_SingleEnded(0);
+  adc1 = ads.readADC_SingleEnded(1);
+
+  if (myFile)
+  {
+    myFile.println(String(adc1) + ", " + String(adc0)); //Salva os valores
+    set_bit(PORTD, PORTD3);                             //LED de aquisição de Dados
+  }
+  else
+  {
+    set_bit(PORTD, PORTD7);       //Aqusição de dados erro -> LED vermelho
+    set_bit(PORTD, PORTD3);       //Aqusição de dados erro -> LED de Dados
+    reset_bit(PORTD, PORTD6);     //LED verde apaga
+  }
+
+  delay(100);
+
+  //Pula os pontos repetidos
+  pwmr = pwmr - j;
+
+
+  while (pwmr > 0) {
+
+    dutyPwm(pwmr);
+
+    adc0 = ads.readADC_SingleEnded(0);
+    adc1 = ads.readADC_SingleEnded(1);
+
+    if (myFile)
+    {
+      myFile.println(String(adc1) + ", " + String(adc0)); //Salva os valores
+      set_bit(PORTD, PORTD7);                             //dados
+    }
+    else
+    {
+      set_bit(PORTD, PORTD7);       //Red On
+      set_bit(PORTD, PORTD3);       //White On
+      reset_bit(PORTD, PORTD5);     //green off
+    }
+
+    pwmr = pwmr - p;
+
+  }
+
+  myFile.close();
+  while (pwmr <= 0) {
+
+    reset_bit(PORTD, PORTD7);             //All Led On
+    //set_bit(PORTD, PORTD6);
+    set_bit(PORTD, PORTD5);
+    set_bit(PORTD, PORTD4);             //Led aguardando
+    set_bit(PORTD, PORTD3);             //Led aguardando
+    Serial.println("END"); //Save the values
+
+    while (1);
+  } //Stop the loop after 1000 measurements
+}
+
+void dutyPwm(int16_t pwm) {
+
+  // Use OCR1A and OCR1B to control the PWM
+  // duty cycle. Duty cycle = OCR1A / ICR1.
+  // OCR1A controls PWM on pin 9 (PORTB1).
+  // OCR1B controls PWM on pin 10 (PORTB2).
+  //OCR1A = 65535; // test signal
+  OCR1A = pwm; // test signal
+
+  //OCR1B = 0xf001;   //test signal
+}
+
+void setPwm(int16_t _pwmresolution) {
+
+  // Set PB1/2 as outputs.
+  DDRB |= (1 << DDB1) | (1 << DDB2);
+
+  TCCR1A =
+    (1 << COM1A1) | (1 << COM1B1) |
+    // Fast PWM mode.
+    (1 << WGM11);
+  TCCR1B =
+    // Fast PWM mode.
+    (1 << WGM12) | (1 << WGM13) |
+    // No clock prescaling (fastest possible
+    // freq).
+    (1 << CS10);
+  OCR1A = 0;
+  // Set the counter value that corresponds to
+  // full duty cycle. For 15-bit PWM use
+  // 0x7fff, etc. A lower value for ICR1 will
+  // allow a faster PWM frequency.
+  //ICR1 = 0xffff;
+  ICR1 = _pwmresolution;
+}
